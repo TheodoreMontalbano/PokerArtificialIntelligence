@@ -1,0 +1,2652 @@
+Two of Hearts Three of Hearts: Win Prob - 0.317 Tie Prob - 0.043
+
+Two of Hearts Four of Hearts: Win Prob - 0.348 Tie Prob - 0.069
+
+Two of Hearts Five of Hearts: Win Prob - 0.359 Tie Prob - 0.045
+
+Two of Hearts Six of Hearts: Win Prob - 0.36 Tie Prob - 0.035
+
+Two of Hearts Seven of Hearts: Win Prob - 0.356 Tie Prob - 0.044
+
+Two of Hearts Eight of Hearts: Win Prob - 0.406 Tie Prob - 0.04
+
+Two of Hearts Nine of Hearts: Win Prob - 0.407 Tie Prob - 0.054
+
+Two of Hearts Ten of Hearts: Win Prob - 0.429 Tie Prob - 0.053
+
+Two of Hearts Jack of Hearts: Win Prob - 0.449 Tie Prob - 0.042
+
+Two of Hearts Queen of Hearts: Win Prob - 0.464 Tie Prob - 0.039
+
+Two of Hearts King of Hearts: Win Prob - 0.502 Tie Prob - 0.026
+
+Two of Hearts Ace of Hearts: Win Prob - 0.528 Tie Prob - 0.044
+
+Two of Hearts Two of Clubs: Win Prob - 0.48 Tie Prob - 0.01
+
+Two of Hearts Three of Clubs: Win Prob - 0.286 Tie Prob - 0.052
+
+Two of Hearts Four of Clubs: Win Prob - 0.3 Tie Prob - 0.053
+
+Two of Hearts Five of Clubs: Win Prob - 0.32 Tie Prob - 0.053
+
+Two of Hearts Six of Clubs: Win Prob - 0.319 Tie Prob - 0.044
+
+Two of Hearts Seven of Clubs: Win Prob - 0.318 Tie Prob - 0.055
+
+Two of Hearts Eight of Clubs: Win Prob - 0.34 Tie Prob - 0.042
+
+Two of Hearts Nine of Clubs: Win Prob - 0.375 Tie Prob - 0.05
+
+Two of Hearts Ten of Clubs: Win Prob - 0.417 Tie Prob - 0.045
+
+Two of Hearts Jack of Clubs: Win Prob - 0.409 Tie Prob - 0.037
+
+Two of Hearts Queen of Clubs: Win Prob - 0.426 Tie Prob - 0.041
+
+Two of Hearts King of Clubs: Win Prob - 0.477 Tie Prob - 0.056
+
+Two of Hearts Ace of Clubs: Win Prob - 0.522 Tie Prob - 0.042
+
+Two of Hearts Two of Spades: Win Prob - 0.494 Tie Prob - 0.011
+
+Two of Hearts Three of Spades: Win Prob - 0.276 Tie Prob - 0.051
+
+Two of Hearts Four of Spades: Win Prob - 0.278 Tie Prob - 0.054
+
+Two of Hearts Five of Spades: Win Prob - 0.324 Tie Prob - 0.057
+
+Two of Hearts Six of Spades: Win Prob - 0.314 Tie Prob - 0.039
+
+Two of Hearts Seven of Spades: Win Prob - 0.312 Tie Prob - 0.045
+
+Two of Hearts Eight of Spades: Win Prob - 0.358 Tie Prob - 0.052
+
+Two of Hearts Nine of Spades: Win Prob - 0.332 Tie Prob - 0.061
+
+Two of Hearts Ten of Spades: Win Prob - 0.387 Tie Prob - 0.053
+
+Two of Hearts Jack of Spades: Win Prob - 0.411 Tie Prob - 0.053
+
+Two of Hearts Queen of Spades: Win Prob - 0.425 Tie Prob - 0.044
+
+Two of Hearts King of Spades: Win Prob - 0.514 Tie Prob - 0.038
+
+Two of Hearts Ace of Spades: Win Prob - 0.524 Tie Prob - 0.039
+
+Two of Hearts Two of Diamonds: Win Prob - 0.492 Tie Prob - 0.015
+
+Two of Hearts Three of Diamonds: Win Prob - 0.267 Tie Prob - 0.055
+
+Two of Hearts Four of Diamonds: Win Prob - 0.297 Tie Prob - 0.042
+
+Two of Hearts Five of Diamonds: Win Prob - 0.289 Tie Prob - 0.063
+
+Two of Hearts Six of Diamonds: Win Prob - 0.297 Tie Prob - 0.056
+
+Two of Hearts Seven of Diamonds: Win Prob - 0.317 Tie Prob - 0.068
+
+Two of Hearts Eight of Diamonds: Win Prob - 0.357 Tie Prob - 0.034
+
+Two of Hearts Nine of Diamonds: Win Prob - 0.357 Tie Prob - 0.053
+
+Two of Hearts Ten of Diamonds: Win Prob - 0.377 Tie Prob - 0.04
+
+Two of Hearts Jack of Diamonds: Win Prob - 0.396 Tie Prob - 0.048
+
+Two of Hearts Queen of Diamonds: Win Prob - 0.45 Tie Prob - 0.04
+
+Two of Hearts King of Diamonds: Win Prob - 0.475 Tie Prob - 0.039
+
+Two of Hearts Ace of Diamonds: Win Prob - 0.507 Tie Prob - 0.041
+
+Three of Hearts Four of Hearts: Win Prob - 0.351 Tie Prob - 0.058
+
+Three of Hearts Five of Hearts: Win Prob - 0.391 Tie Prob - 0.051
+
+Three of Hearts Six of Hearts: Win Prob - 0.375 Tie Prob - 0.045
+
+Three of Hearts Seven of Hearts: Win Prob - 0.362 Tie Prob - 0.051
+
+Three of Hearts Eight of Hearts: Win Prob - 0.405 Tie Prob - 0.044
+
+Three of Hearts Nine of Hearts: Win Prob - 0.42 Tie Prob - 0.051
+
+Three of Hearts Ten of Hearts: Win Prob - 0.433 Tie Prob - 0.047
+
+Three of Hearts Jack of Hearts: Win Prob - 0.441 Tie Prob - 0.043
+
+Three of Hearts Queen of Hearts: Win Prob - 0.468 Tie Prob - 0.037
+
+Three of Hearts King of Hearts: Win Prob - 0.518 Tie Prob - 0.054
+
+Three of Hearts Ace of Hearts: Win Prob - 0.532 Tie Prob - 0.046
+
+Three of Hearts Two of Clubs: Win Prob - 0.262 Tie Prob - 0.054
+
+Three of Hearts Three of Clubs: Win Prob - 0.545 Tie Prob - 0.012
+
+Three of Hearts Four of Clubs: Win Prob - 0.317 Tie Prob - 0.05
+
+Three of Hearts Five of Clubs: Win Prob - 0.32 Tie Prob - 0.058
+
+Three of Hearts Six of Clubs: Win Prob - 0.327 Tie Prob - 0.049
+
+Three of Hearts Seven of Clubs: Win Prob - 0.351 Tie Prob - 0.049
+
+Three of Hearts Eight of Clubs: Win Prob - 0.372 Tie Prob - 0.056
+
+Three of Hearts Nine of Clubs: Win Prob - 0.388 Tie Prob - 0.049
+
+Three of Hearts Ten of Clubs: Win Prob - 0.402 Tie Prob - 0.042
+
+Three of Hearts Jack of Clubs: Win Prob - 0.4 Tie Prob - 0.044
+
+Three of Hearts Queen of Clubs: Win Prob - 0.445 Tie Prob - 0.044
+
+Three of Hearts King of Clubs: Win Prob - 0.469 Tie Prob - 0.038
+
+Three of Hearts Ace of Clubs: Win Prob - 0.525 Tie Prob - 0.039
+
+Three of Hearts Two of Spades: Win Prob - 0.291 Tie Prob - 0.049
+
+Three of Hearts Three of Spades: Win Prob - 0.479 Tie Prob - 0.019
+
+Three of Hearts Four of Spades: Win Prob - 0.293 Tie Prob - 0.056
+
+Three of Hearts Five of Spades: Win Prob - 0.368 Tie Prob - 0.053
+
+Three of Hearts Six of Spades: Win Prob - 0.33 Tie Prob - 0.061
+
+Three of Hearts Seven of Spades: Win Prob - 0.355 Tie Prob - 0.047
+
+Three of Hearts Eight of Spades: Win Prob - 0.361 Tie Prob - 0.045
+
+Three of Hearts Nine of Spades: Win Prob - 0.387 Tie Prob - 0.046
+
+Three of Hearts Ten of Spades: Win Prob - 0.401 Tie Prob - 0.057
+
+Three of Hearts Jack of Spades: Win Prob - 0.437 Tie Prob - 0.05
+
+Three of Hearts Queen of Spades: Win Prob - 0.432 Tie Prob - 0.047
+
+Three of Hearts King of Spades: Win Prob - 0.491 Tie Prob - 0.04
+
+Three of Hearts Ace of Spades: Win Prob - 0.509 Tie Prob - 0.044
+
+Three of Hearts Two of Diamonds: Win Prob - 0.283 Tie Prob - 0.048
+
+Three of Hearts Three of Diamonds: Win Prob - 0.532 Tie Prob - 0.016
+
+Three of Hearts Four of Diamonds: Win Prob - 0.313 Tie Prob - 0.046
+
+Three of Hearts Five of Diamonds: Win Prob - 0.321 Tie Prob - 0.069
+
+Three of Hearts Six of Diamonds: Win Prob - 0.321 Tie Prob - 0.056
+
+Three of Hearts Seven of Diamonds: Win Prob - 0.334 Tie Prob - 0.054
+
+Three of Hearts Eight of Diamonds: Win Prob - 0.347 Tie Prob - 0.051
+
+Three of Hearts Nine of Diamonds: Win Prob - 0.368 Tie Prob - 0.057
+
+Three of Hearts Ten of Diamonds: Win Prob - 0.416 Tie Prob - 0.04
+
+Three of Hearts Jack of Diamonds: Win Prob - 0.436 Tie Prob - 0.034
+
+Three of Hearts Queen of Diamonds: Win Prob - 0.453 Tie Prob - 0.043
+
+Three of Hearts King of Diamonds: Win Prob - 0.475 Tie Prob - 0.044
+
+Three of Hearts Ace of Diamonds: Win Prob - 0.517 Tie Prob - 0.035
+
+Four of Hearts Five of Hearts: Win Prob - 0.416 Tie Prob - 0.056
+
+Four of Hearts Six of Hearts: Win Prob - 0.403 Tie Prob - 0.06
+
+Four of Hearts Seven of Hearts: Win Prob - 0.409 Tie Prob - 0.049
+
+Four of Hearts Eight of Hearts: Win Prob - 0.406 Tie Prob - 0.059
+
+Four of Hearts Nine of Hearts: Win Prob - 0.385 Tie Prob - 0.055
+
+Four of Hearts Ten of Hearts: Win Prob - 0.433 Tie Prob - 0.051
+
+Four of Hearts Jack of Hearts: Win Prob - 0.473 Tie Prob - 0.041
+
+Four of Hearts Queen of Hearts: Win Prob - 0.458 Tie Prob - 0.058
+
+Four of Hearts King of Hearts: Win Prob - 0.538 Tie Prob - 0.041
+
+Four of Hearts Ace of Hearts: Win Prob - 0.576 Tie Prob - 0.043
+
+Four of Hearts Two of Clubs: Win Prob - 0.298 Tie Prob - 0.042
+
+Four of Hearts Three of Clubs: Win Prob - 0.347 Tie Prob - 0.043
+
+Four of Hearts Four of Clubs: Win Prob - 0.565 Tie Prob - 0.009
+
+Four of Hearts Five of Clubs: Win Prob - 0.362 Tie Prob - 0.057
+
+Four of Hearts Six of Clubs: Win Prob - 0.374 Tie Prob - 0.048
+
+Four of Hearts Seven of Clubs: Win Prob - 0.342 Tie Prob - 0.055
+
+Four of Hearts Eight of Clubs: Win Prob - 0.371 Tie Prob - 0.06
+
+Four of Hearts Nine of Clubs: Win Prob - 0.371 Tie Prob - 0.046
+
+Four of Hearts Ten of Clubs: Win Prob - 0.432 Tie Prob - 0.054
+
+Four of Hearts Jack of Clubs: Win Prob - 0.436 Tie Prob - 0.044
+
+Four of Hearts Queen of Clubs: Win Prob - 0.48 Tie Prob - 0.042
+
+Four of Hearts King of Clubs: Win Prob - 0.524 Tie Prob - 0.044
+
+Four of Hearts Ace of Clubs: Win Prob - 0.529 Tie Prob - 0.048
+
+Four of Hearts Two of Spades: Win Prob - 0.294 Tie Prob - 0.058
+
+Four of Hearts Three of Spades: Win Prob - 0.327 Tie Prob - 0.062
+
+Four of Hearts Four of Spades: Win Prob - 0.591 Tie Prob - 0.009
+
+Four of Hearts Five of Spades: Win Prob - 0.355 Tie Prob - 0.064
+
+Four of Hearts Six of Spades: Win Prob - 0.345 Tie Prob - 0.057
+
+Four of Hearts Seven of Spades: Win Prob - 0.374 Tie Prob - 0.049
+
+Four of Hearts Eight of Spades: Win Prob - 0.354 Tie Prob - 0.051
+
+Four of Hearts Nine of Spades: Win Prob - 0.374 Tie Prob - 0.051
+
+Four of Hearts Ten of Spades: Win Prob - 0.441 Tie Prob - 0.046
+
+Four of Hearts Jack of Spades: Win Prob - 0.444 Tie Prob - 0.052
+
+Four of Hearts Queen of Spades: Win Prob - 0.485 Tie Prob - 0.038
+
+Four of Hearts King of Spades: Win Prob - 0.503 Tie Prob - 0.034
+
+Four of Hearts Ace of Spades: Win Prob - 0.52 Tie Prob - 0.046
+
+Four of Hearts Two of Diamonds: Win Prob - 0.303 Tie Prob - 0.051
+
+Four of Hearts Three of Diamonds: Win Prob - 0.343 Tie Prob - 0.034
+
+Four of Hearts Four of Diamonds: Win Prob - 0.547 Tie Prob - 0.005
+
+Four of Hearts Five of Diamonds: Win Prob - 0.363 Tie Prob - 0.062
+
+Four of Hearts Six of Diamonds: Win Prob - 0.349 Tie Prob - 0.064
+
+Four of Hearts Seven of Diamonds: Win Prob - 0.363 Tie Prob - 0.074
+
+Four of Hearts Eight of Diamonds: Win Prob - 0.371 Tie Prob - 0.044
+
+Four of Hearts Nine of Diamonds: Win Prob - 0.379 Tie Prob - 0.051
+
+Four of Hearts Ten of Diamonds: Win Prob - 0.388 Tie Prob - 0.048
+
+Four of Hearts Jack of Diamonds: Win Prob - 0.448 Tie Prob - 0.043
+
+Four of Hearts Queen of Diamonds: Win Prob - 0.453 Tie Prob - 0.042
+
+Four of Hearts King of Diamonds: Win Prob - 0.497 Tie Prob - 0.047
+
+Four of Hearts Ace of Diamonds: Win Prob - 0.526 Tie Prob - 0.048
+
+Five of Hearts Six of Hearts: Win Prob - 0.405 Tie Prob - 0.062
+
+Five of Hearts Seven of Hearts: Win Prob - 0.404 Tie Prob - 0.059
+
+Five of Hearts Eight of Hearts: Win Prob - 0.439 Tie Prob - 0.038
+
+Five of Hearts Nine of Hearts: Win Prob - 0.428 Tie Prob - 0.06
+
+Five of Hearts Ten of Hearts: Win Prob - 0.454 Tie Prob - 0.046
+
+Five of Hearts Jack of Hearts: Win Prob - 0.485 Tie Prob - 0.039
+
+Five of Hearts Queen of Hearts: Win Prob - 0.529 Tie Prob - 0.045
+
+Five of Hearts King of Hearts: Win Prob - 0.524 Tie Prob - 0.045
+
+Five of Hearts Ace of Hearts: Win Prob - 0.576 Tie Prob - 0.04
+
+Five of Hearts Two of Clubs: Win Prob - 0.31 Tie Prob - 0.068
+
+Five of Hearts Three of Clubs: Win Prob - 0.336 Tie Prob - 0.048
+
+Five of Hearts Four of Clubs: Win Prob - 0.371 Tie Prob - 0.063
+
+Five of Hearts Five of Clubs: Win Prob - 0.646 Tie Prob - 0.012
+
+Five of Hearts Six of Clubs: Win Prob - 0.37 Tie Prob - 0.058
+
+Five of Hearts Seven of Clubs: Win Prob - 0.384 Tie Prob - 0.049
+
+Five of Hearts Eight of Clubs: Win Prob - 0.387 Tie Prob - 0.059
+
+Five of Hearts Nine of Clubs: Win Prob - 0.398 Tie Prob - 0.046
+
+Five of Hearts Ten of Clubs: Win Prob - 0.421 Tie Prob - 0.041
+
+Five of Hearts Jack of Clubs: Win Prob - 0.445 Tie Prob - 0.051
+
+Five of Hearts Queen of Clubs: Win Prob - 0.482 Tie Prob - 0.044
+
+Five of Hearts King of Clubs: Win Prob - 0.539 Tie Prob - 0.038
+
+Five of Hearts Ace of Clubs: Win Prob - 0.542 Tie Prob - 0.039
+
+Five of Hearts Two of Spades: Win Prob - 0.292 Tie Prob - 0.041
+
+Five of Hearts Three of Spades: Win Prob - 0.364 Tie Prob - 0.064
+
+Five of Hearts Four of Spades: Win Prob - 0.36 Tie Prob - 0.052
+
+Five of Hearts Five of Spades: Win Prob - 0.589 Tie Prob - 0.014
+
+Five of Hearts Six of Spades: Win Prob - 0.391 Tie Prob - 0.049
+
+Five of Hearts Seven of Spades: Win Prob - 0.386 Tie Prob - 0.054
+
+Five of Hearts Eight of Spades: Win Prob - 0.402 Tie Prob - 0.051
+
+Five of Hearts Nine of Spades: Win Prob - 0.39 Tie Prob - 0.054
+
+Five of Hearts Ten of Spades: Win Prob - 0.422 Tie Prob - 0.041
+
+Five of Hearts Jack of Spades: Win Prob - 0.441 Tie Prob - 0.052
+
+Five of Hearts Queen of Spades: Win Prob - 0.488 Tie Prob - 0.045
+
+Five of Hearts King of Spades: Win Prob - 0.493 Tie Prob - 0.039
+
+Five of Hearts Ace of Spades: Win Prob - 0.54 Tie Prob - 0.051
+
+Five of Hearts Two of Diamonds: Win Prob - 0.307 Tie Prob - 0.05
+
+Five of Hearts Three of Diamonds: Win Prob - 0.335 Tie Prob - 0.051
+
+Five of Hearts Four of Diamonds: Win Prob - 0.366 Tie Prob - 0.05
+
+Five of Hearts Five of Diamonds: Win Prob - 0.617 Tie Prob - 0.012
+
+Five of Hearts Six of Diamonds: Win Prob - 0.378 Tie Prob - 0.042
+
+Five of Hearts Seven of Diamonds: Win Prob - 0.394 Tie Prob - 0.046
+
+Five of Hearts Eight of Diamonds: Win Prob - 0.416 Tie Prob - 0.045
+
+Five of Hearts Nine of Diamonds: Win Prob - 0.386 Tie Prob - 0.042
+
+Five of Hearts Ten of Diamonds: Win Prob - 0.413 Tie Prob - 0.062
+
+Five of Hearts Jack of Diamonds: Win Prob - 0.45 Tie Prob - 0.044
+
+Five of Hearts Queen of Diamonds: Win Prob - 0.47 Tie Prob - 0.046
+
+Five of Hearts King of Diamonds: Win Prob - 0.508 Tie Prob - 0.036
+
+Five of Hearts Ace of Diamonds: Win Prob - 0.555 Tie Prob - 0.038
+
+Six of Hearts Seven of Hearts: Win Prob - 0.438 Tie Prob - 0.045
+
+Six of Hearts Eight of Hearts: Win Prob - 0.454 Tie Prob - 0.049
+
+Six of Hearts Nine of Hearts: Win Prob - 0.435 Tie Prob - 0.049
+
+Six of Hearts Ten of Hearts: Win Prob - 0.489 Tie Prob - 0.033
+
+Six of Hearts Jack of Hearts: Win Prob - 0.48 Tie Prob - 0.046
+
+Six of Hearts Queen of Hearts: Win Prob - 0.509 Tie Prob - 0.044
+
+Six of Hearts King of Hearts: Win Prob - 0.553 Tie Prob - 0.044
+
+Six of Hearts Ace of Hearts: Win Prob - 0.591 Tie Prob - 0.041
+
+Six of Hearts Two of Clubs: Win Prob - 0.291 Tie Prob - 0.048
+
+Six of Hearts Three of Clubs: Win Prob - 0.325 Tie Prob - 0.061
+
+Six of Hearts Four of Clubs: Win Prob - 0.34 Tie Prob - 0.057
+
+Six of Hearts Five of Clubs: Win Prob - 0.386 Tie Prob - 0.067
+
+Six of Hearts Six of Clubs: Win Prob - 0.655 Tie Prob - 0.008
+
+Six of Hearts Seven of Clubs: Win Prob - 0.427 Tie Prob - 0.038
+
+Six of Hearts Eight of Clubs: Win Prob - 0.418 Tie Prob - 0.06
+
+Six of Hearts Nine of Clubs: Win Prob - 0.442 Tie Prob - 0.049
+
+Six of Hearts Ten of Clubs: Win Prob - 0.436 Tie Prob - 0.055
+
+Six of Hearts Jack of Clubs: Win Prob - 0.44 Tie Prob - 0.034
+
+Six of Hearts Queen of Clubs: Win Prob - 0.504 Tie Prob - 0.047
+
+Six of Hearts King of Clubs: Win Prob - 0.546 Tie Prob - 0.047
+
+Six of Hearts Ace of Clubs: Win Prob - 0.553 Tie Prob - 0.04
+
+Six of Hearts Two of Spades: Win Prob - 0.275 Tie Prob - 0.058
+
+Six of Hearts Three of Spades: Win Prob - 0.329 Tie Prob - 0.057
+
+Six of Hearts Four of Spades: Win Prob - 0.358 Tie Prob - 0.049
+
+Six of Hearts Five of Spades: Win Prob - 0.368 Tie Prob - 0.052
+
+Six of Hearts Six of Spades: Win Prob - 0.62 Tie Prob - 0.017
+
+Six of Hearts Seven of Spades: Win Prob - 0.436 Tie Prob - 0.053
+
+Six of Hearts Eight of Spades: Win Prob - 0.399 Tie Prob - 0.068
+
+Six of Hearts Nine of Spades: Win Prob - 0.424 Tie Prob - 0.052
+
+Six of Hearts Ten of Spades: Win Prob - 0.452 Tie Prob - 0.042
+
+Six of Hearts Jack of Spades: Win Prob - 0.452 Tie Prob - 0.044
+
+Six of Hearts Queen of Spades: Win Prob - 0.472 Tie Prob - 0.048
+
+Six of Hearts King of Spades: Win Prob - 0.495 Tie Prob - 0.045
+
+Six of Hearts Ace of Spades: Win Prob - 0.555 Tie Prob - 0.048
+
+Six of Hearts Two of Diamonds: Win Prob - 0.299 Tie Prob - 0.059
+
+Six of Hearts Three of Diamonds: Win Prob - 0.314 Tie Prob - 0.053
+
+Six of Hearts Four of Diamonds: Win Prob - 0.36 Tie Prob - 0.042
+
+Six of Hearts Five of Diamonds: Win Prob - 0.357 Tie Prob - 0.053
+
+Six of Hearts Six of Diamonds: Win Prob - 0.639 Tie Prob - 0.016
+
+Six of Hearts Seven of Diamonds: Win Prob - 0.402 Tie Prob - 0.052
+
+Six of Hearts Eight of Diamonds: Win Prob - 0.416 Tie Prob - 0.056
+
+Six of Hearts Nine of Diamonds: Win Prob - 0.418 Tie Prob - 0.054
+
+Six of Hearts Ten of Diamonds: Win Prob - 0.432 Tie Prob - 0.041
+
+Six of Hearts Jack of Diamonds: Win Prob - 0.472 Tie Prob - 0.049
+
+Six of Hearts Queen of Diamonds: Win Prob - 0.492 Tie Prob - 0.039
+
+Six of Hearts King of Diamonds: Win Prob - 0.528 Tie Prob - 0.041
+
+Six of Hearts Ace of Diamonds: Win Prob - 0.525 Tie Prob - 0.045
+
+Seven of Hearts Eight of Hearts: Win Prob - 0.487 Tie Prob - 0.045
+
+Seven of Hearts Nine of Hearts: Win Prob - 0.486 Tie Prob - 0.044
+
+Seven of Hearts Ten of Hearts: Win Prob - 0.506 Tie Prob - 0.047
+
+Seven of Hearts Jack of Hearts: Win Prob - 0.5 Tie Prob - 0.048
+
+Seven of Hearts Queen of Hearts: Win Prob - 0.545 Tie Prob - 0.034
+
+Seven of Hearts King of Hearts: Win Prob - 0.546 Tie Prob - 0.034
+
+Seven of Hearts Ace of Hearts: Win Prob - 0.59 Tie Prob - 0.044
+
+Seven of Hearts Two of Clubs: Win Prob - 0.288 Tie Prob - 0.058
+
+Seven of Hearts Three of Clubs: Win Prob - 0.334 Tie Prob - 0.055
+
+Seven of Hearts Four of Clubs: Win Prob - 0.378 Tie Prob - 0.055
+
+Seven of Hearts Five of Clubs: Win Prob - 0.369 Tie Prob - 0.076
+
+Seven of Hearts Six of Clubs: Win Prob - 0.425 Tie Prob - 0.047
+
+Seven of Hearts Seven of Clubs: Win Prob - 0.675 Tie Prob - 0.012
+
+Seven of Hearts Eight of Clubs: Win Prob - 0.447 Tie Prob - 0.049
+
+Seven of Hearts Nine of Clubs: Win Prob - 0.451 Tie Prob - 0.048
+
+Seven of Hearts Ten of Clubs: Win Prob - 0.451 Tie Prob - 0.043
+
+Seven of Hearts Jack of Clubs: Win Prob - 0.506 Tie Prob - 0.041
+
+Seven of Hearts Queen of Clubs: Win Prob - 0.509 Tie Prob - 0.046
+
+Seven of Hearts King of Clubs: Win Prob - 0.525 Tie Prob - 0.046
+
+Seven of Hearts Ace of Clubs: Win Prob - 0.58 Tie Prob - 0.043
+
+Seven of Hearts Two of Spades: Win Prob - 0.338 Tie Prob - 0.047
+
+Seven of Hearts Three of Spades: Win Prob - 0.364 Tie Prob - 0.048
+
+Seven of Hearts Four of Spades: Win Prob - 0.349 Tie Prob - 0.064
+
+Seven of Hearts Five of Spades: Win Prob - 0.386 Tie Prob - 0.049
+
+Seven of Hearts Six of Spades: Win Prob - 0.404 Tie Prob - 0.055
+
+Seven of Hearts Seven of Spades: Win Prob - 0.67 Tie Prob - 0.01
+
+Seven of Hearts Eight of Spades: Win Prob - 0.449 Tie Prob - 0.054
+
+Seven of Hearts Nine of Spades: Win Prob - 0.465 Tie Prob - 0.051
+
+Seven of Hearts Ten of Spades: Win Prob - 0.46 Tie Prob - 0.044
+
+Seven of Hearts Jack of Spades: Win Prob - 0.505 Tie Prob - 0.025
+
+Seven of Hearts Queen of Spades: Win Prob - 0.509 Tie Prob - 0.036
+
+Seven of Hearts King of Spades: Win Prob - 0.537 Tie Prob - 0.044
+
+Seven of Hearts Ace of Spades: Win Prob - 0.561 Tie Prob - 0.039
+
+Seven of Hearts Two of Diamonds: Win Prob - 0.35 Tie Prob - 0.047
+
+Seven of Hearts Three of Diamonds: Win Prob - 0.334 Tie Prob - 0.053
+
+Seven of Hearts Four of Diamonds: Win Prob - 0.391 Tie Prob - 0.057
+
+Seven of Hearts Five of Diamonds: Win Prob - 0.385 Tie Prob - 0.057
+
+Seven of Hearts Six of Diamonds: Win Prob - 0.415 Tie Prob - 0.05
+
+Seven of Hearts Seven of Diamonds: Win Prob - 0.663 Tie Prob - 0.014
+
+Seven of Hearts Eight of Diamonds: Win Prob - 0.423 Tie Prob - 0.051
+
+Seven of Hearts Nine of Diamonds: Win Prob - 0.48 Tie Prob - 0.041
+
+Seven of Hearts Ten of Diamonds: Win Prob - 0.477 Tie Prob - 0.04
+
+Seven of Hearts Jack of Diamonds: Win Prob - 0.488 Tie Prob - 0.043
+
+Seven of Hearts Queen of Diamonds: Win Prob - 0.481 Tie Prob - 0.038
+
+Seven of Hearts King of Diamonds: Win Prob - 0.522 Tie Prob - 0.048
+
+Seven of Hearts Ace of Diamonds: Win Prob - 0.583 Tie Prob - 0.04
+
+Eight of Hearts Nine of Hearts: Win Prob - 0.511 Tie Prob - 0.035
+
+Eight of Hearts Ten of Hearts: Win Prob - 0.518 Tie Prob - 0.042
+
+Eight of Hearts Jack of Hearts: Win Prob - 0.539 Tie Prob - 0.04
+
+Eight of Hearts Queen of Hearts: Win Prob - 0.542 Tie Prob - 0.034
+
+Eight of Hearts King of Hearts: Win Prob - 0.556 Tie Prob - 0.042
+
+Eight of Hearts Ace of Hearts: Win Prob - 0.586 Tie Prob - 0.034
+
+Eight of Hearts Two of Clubs: Win Prob - 0.335 Tie Prob - 0.046
+
+Eight of Hearts Three of Clubs: Win Prob - 0.361 Tie Prob - 0.051
+
+Eight of Hearts Four of Clubs: Win Prob - 0.355 Tie Prob - 0.066
+
+Eight of Hearts Five of Clubs: Win Prob - 0.379 Tie Prob - 0.046
+
+Eight of Hearts Six of Clubs: Win Prob - 0.396 Tie Prob - 0.064
+
+Eight of Hearts Seven of Clubs: Win Prob - 0.453 Tie Prob - 0.042
+
+Eight of Hearts Eight of Clubs: Win Prob - 0.697 Tie Prob - 0.012
+
+Eight of Hearts Nine of Clubs: Win Prob - 0.47 Tie Prob - 0.042
+
+Eight of Hearts Ten of Clubs: Win Prob - 0.479 Tie Prob - 0.036
+
+Eight of Hearts Jack of Clubs: Win Prob - 0.51 Tie Prob - 0.033
+
+Eight of Hearts Queen of Clubs: Win Prob - 0.514 Tie Prob - 0.032
+
+Eight of Hearts King of Clubs: Win Prob - 0.551 Tie Prob - 0.04
+
+Eight of Hearts Ace of Clubs: Win Prob - 0.579 Tie Prob - 0.048
+
+Eight of Hearts Two of Spades: Win Prob - 0.348 Tie Prob - 0.052
+
+Eight of Hearts Three of Spades: Win Prob - 0.352 Tie Prob - 0.051
+
+Eight of Hearts Four of Spades: Win Prob - 0.366 Tie Prob - 0.051
+
+Eight of Hearts Five of Spades: Win Prob - 0.392 Tie Prob - 0.057
+
+Eight of Hearts Six of Spades: Win Prob - 0.389 Tie Prob - 0.054
+
+Eight of Hearts Seven of Spades: Win Prob - 0.442 Tie Prob - 0.041
+
+Eight of Hearts Eight of Spades: Win Prob - 0.685 Tie Prob - 0.01
+
+Eight of Hearts Nine of Spades: Win Prob - 0.468 Tie Prob - 0.039
+
+Eight of Hearts Ten of Spades: Win Prob - 0.514 Tie Prob - 0.048
+
+Eight of Hearts Jack of Spades: Win Prob - 0.518 Tie Prob - 0.032
+
+Eight of Hearts Queen of Spades: Win Prob - 0.507 Tie Prob - 0.033
+
+Eight of Hearts King of Spades: Win Prob - 0.546 Tie Prob - 0.041
+
+Eight of Hearts Ace of Spades: Win Prob - 0.608 Tie Prob - 0.035
+
+Eight of Hearts Two of Diamonds: Win Prob - 0.327 Tie Prob - 0.063
+
+Eight of Hearts Three of Diamonds: Win Prob - 0.325 Tie Prob - 0.06
+
+Eight of Hearts Four of Diamonds: Win Prob - 0.345 Tie Prob - 0.063
+
+Eight of Hearts Five of Diamonds: Win Prob - 0.382 Tie Prob - 0.052
+
+Eight of Hearts Six of Diamonds: Win Prob - 0.439 Tie Prob - 0.042
+
+Eight of Hearts Seven of Diamonds: Win Prob - 0.443 Tie Prob - 0.062
+
+Eight of Hearts Eight of Diamonds: Win Prob - 0.65 Tie Prob - 0.01
+
+Eight of Hearts Nine of Diamonds: Win Prob - 0.491 Tie Prob - 0.041
+
+Eight of Hearts Ten of Diamonds: Win Prob - 0.501 Tie Prob - 0.042
+
+Eight of Hearts Jack of Diamonds: Win Prob - 0.512 Tie Prob - 0.029
+
+Eight of Hearts Queen of Diamonds: Win Prob - 0.524 Tie Prob - 0.03
+
+Eight of Hearts King of Diamonds: Win Prob - 0.548 Tie Prob - 0.04
+
+Eight of Hearts Ace of Diamonds: Win Prob - 0.582 Tie Prob - 0.046
+
+Nine of Hearts Ten of Hearts: Win Prob - 0.558 Tie Prob - 0.04
+
+Nine of Hearts Jack of Hearts: Win Prob - 0.571 Tie Prob - 0.032
+
+Nine of Hearts Queen of Hearts: Win Prob - 0.549 Tie Prob - 0.035
+
+Nine of Hearts King of Hearts: Win Prob - 0.599 Tie Prob - 0.038
+
+Nine of Hearts Ace of Hearts: Win Prob - 0.632 Tie Prob - 0.034
+
+Nine of Hearts Two of Clubs: Win Prob - 0.357 Tie Prob - 0.05
+
+Nine of Hearts Three of Clubs: Win Prob - 0.411 Tie Prob - 0.061
+
+Nine of Hearts Four of Clubs: Win Prob - 0.412 Tie Prob - 0.055
+
+Nine of Hearts Five of Clubs: Win Prob - 0.414 Tie Prob - 0.054
+
+Nine of Hearts Six of Clubs: Win Prob - 0.458 Tie Prob - 0.052
+
+Nine of Hearts Seven of Clubs: Win Prob - 0.419 Tie Prob - 0.058
+
+Nine of Hearts Eight of Clubs: Win Prob - 0.443 Tie Prob - 0.031
+
+Nine of Hearts Nine of Clubs: Win Prob - 0.743 Tie Prob - 0.004
+
+Nine of Hearts Ten of Clubs: Win Prob - 0.475 Tie Prob - 0.037
+
+Nine of Hearts Jack of Clubs: Win Prob - 0.506 Tie Prob - 0.04
+
+Nine of Hearts Queen of Clubs: Win Prob - 0.525 Tie Prob - 0.034
+
+Nine of Hearts King of Clubs: Win Prob - 0.579 Tie Prob - 0.034
+
+Nine of Hearts Ace of Clubs: Win Prob - 0.596 Tie Prob - 0.029
+
+Nine of Hearts Two of Spades: Win Prob - 0.383 Tie Prob - 0.042
+
+Nine of Hearts Three of Spades: Win Prob - 0.347 Tie Prob - 0.048
+
+Nine of Hearts Four of Spades: Win Prob - 0.396 Tie Prob - 0.041
+
+Nine of Hearts Five of Spades: Win Prob - 0.415 Tie Prob - 0.061
+
+Nine of Hearts Six of Spades: Win Prob - 0.438 Tie Prob - 0.049
+
+Nine of Hearts Seven of Spades: Win Prob - 0.446 Tie Prob - 0.053
+
+Nine of Hearts Eight of Spades: Win Prob - 0.482 Tie Prob - 0.039
+
+Nine of Hearts Nine of Spades: Win Prob - 0.703 Tie Prob - 0.005
+
+Nine of Hearts Ten of Spades: Win Prob - 0.487 Tie Prob - 0.032
+
+Nine of Hearts Jack of Spades: Win Prob - 0.538 Tie Prob - 0.035
+
+Nine of Hearts Queen of Spades: Win Prob - 0.523 Tie Prob - 0.036
+
+Nine of Hearts King of Spades: Win Prob - 0.539 Tie Prob - 0.038
+
+Nine of Hearts Ace of Spades: Win Prob - 0.608 Tie Prob - 0.034
+
+Nine of Hearts Two of Diamonds: Win Prob - 0.365 Tie Prob - 0.049
+
+Nine of Hearts Three of Diamonds: Win Prob - 0.362 Tie Prob - 0.057
+
+Nine of Hearts Four of Diamonds: Win Prob - 0.376 Tie Prob - 0.061
+
+Nine of Hearts Five of Diamonds: Win Prob - 0.376 Tie Prob - 0.054
+
+Nine of Hearts Six of Diamonds: Win Prob - 0.443 Tie Prob - 0.044
+
+Nine of Hearts Seven of Diamonds: Win Prob - 0.446 Tie Prob - 0.05
+
+Nine of Hearts Eight of Diamonds: Win Prob - 0.481 Tie Prob - 0.044
+
+Nine of Hearts Nine of Diamonds: Win Prob - 0.743 Tie Prob - 0.004
+
+Nine of Hearts Ten of Diamonds: Win Prob - 0.534 Tie Prob - 0.04
+
+Nine of Hearts Jack of Diamonds: Win Prob - 0.541 Tie Prob - 0.042
+
+Nine of Hearts Queen of Diamonds: Win Prob - 0.51 Tie Prob - 0.033
+
+Nine of Hearts King of Diamonds: Win Prob - 0.543 Tie Prob - 0.031
+
+Nine of Hearts Ace of Diamonds: Win Prob - 0.592 Tie Prob - 0.033
+
+Ten of Hearts Jack of Hearts: Win Prob - 0.568 Tie Prob - 0.041
+
+Ten of Hearts Queen of Hearts: Win Prob - 0.599 Tie Prob - 0.032
+
+Ten of Hearts King of Hearts: Win Prob - 0.604 Tie Prob - 0.022
+
+Ten of Hearts Ace of Hearts: Win Prob - 0.642 Tie Prob - 0.033
+
+Ten of Hearts Two of Clubs: Win Prob - 0.379 Tie Prob - 0.053
+
+Ten of Hearts Three of Clubs: Win Prob - 0.42 Tie Prob - 0.049
+
+Ten of Hearts Four of Clubs: Win Prob - 0.413 Tie Prob - 0.037
+
+Ten of Hearts Five of Clubs: Win Prob - 0.419 Tie Prob - 0.039
+
+Ten of Hearts Six of Clubs: Win Prob - 0.445 Tie Prob - 0.049
+
+Ten of Hearts Seven of Clubs: Win Prob - 0.49 Tie Prob - 0.046
+
+Ten of Hearts Eight of Clubs: Win Prob - 0.495 Tie Prob - 0.043
+
+Ten of Hearts Nine of Clubs: Win Prob - 0.496 Tie Prob - 0.032
+
+Ten of Hearts Ten of Clubs: Win Prob - 0.743 Tie Prob - 0.009
+
+Ten of Hearts Jack of Clubs: Win Prob - 0.551 Tie Prob - 0.027
+
+Ten of Hearts Queen of Clubs: Win Prob - 0.529 Tie Prob - 0.05
+
+Ten of Hearts King of Clubs: Win Prob - 0.61 Tie Prob - 0.023
+
+Ten of Hearts Ace of Clubs: Win Prob - 0.63 Tie Prob - 0.036
+
+Ten of Hearts Two of Spades: Win Prob - 0.388 Tie Prob - 0.042
+
+Ten of Hearts Three of Spades: Win Prob - 0.394 Tie Prob - 0.041
+
+Ten of Hearts Four of Spades: Win Prob - 0.426 Tie Prob - 0.037
+
+Ten of Hearts Five of Spades: Win Prob - 0.422 Tie Prob - 0.056
+
+Ten of Hearts Six of Spades: Win Prob - 0.456 Tie Prob - 0.044
+
+Ten of Hearts Seven of Spades: Win Prob - 0.457 Tie Prob - 0.04
+
+Ten of Hearts Eight of Spades: Win Prob - 0.502 Tie Prob - 0.035
+
+Ten of Hearts Nine of Spades: Win Prob - 0.495 Tie Prob - 0.036
+
+Ten of Hearts Ten of Spades: Win Prob - 0.767 Tie Prob - 0.007
+
+Ten of Hearts Jack of Spades: Win Prob - 0.532 Tie Prob - 0.045
+
+Ten of Hearts Queen of Spades: Win Prob - 0.592 Tie Prob - 0.031
+
+Ten of Hearts King of Spades: Win Prob - 0.575 Tie Prob - 0.031
+
+Ten of Hearts Ace of Spades: Win Prob - 0.624 Tie Prob - 0.029
+
+Ten of Hearts Two of Diamonds: Win Prob - 0.377 Tie Prob - 0.042
+
+Ten of Hearts Three of Diamonds: Win Prob - 0.411 Tie Prob - 0.038
+
+Ten of Hearts Four of Diamonds: Win Prob - 0.431 Tie Prob - 0.041
+
+Ten of Hearts Five of Diamonds: Win Prob - 0.436 Tie Prob - 0.07
+
+Ten of Hearts Six of Diamonds: Win Prob - 0.438 Tie Prob - 0.039
+
+Ten of Hearts Seven of Diamonds: Win Prob - 0.472 Tie Prob - 0.047
+
+Ten of Hearts Eight of Diamonds: Win Prob - 0.497 Tie Prob - 0.046
+
+Ten of Hearts Nine of Diamonds: Win Prob - 0.487 Tie Prob - 0.042
+
+Ten of Hearts Ten of Diamonds: Win Prob - 0.768 Tie Prob - 0.01
+
+Ten of Hearts Jack of Diamonds: Win Prob - 0.517 Tie Prob - 0.03
+
+Ten of Hearts Queen of Diamonds: Win Prob - 0.561 Tie Prob - 0.038
+
+Ten of Hearts King of Diamonds: Win Prob - 0.571 Tie Prob - 0.042
+
+Ten of Hearts Ace of Diamonds: Win Prob - 0.591 Tie Prob - 0.03
+
+Jack of Hearts Queen of Hearts: Win Prob - 0.581 Tie Prob - 0.04
+
+Jack of Hearts King of Hearts: Win Prob - 0.619 Tie Prob - 0.035
+
+Jack of Hearts Ace of Hearts: Win Prob - 0.621 Tie Prob - 0.035
+
+Jack of Hearts Two of Clubs: Win Prob - 0.43 Tie Prob - 0.048
+
+Jack of Hearts Three of Clubs: Win Prob - 0.441 Tie Prob - 0.04
+
+Jack of Hearts Four of Clubs: Win Prob - 0.421 Tie Prob - 0.053
+
+Jack of Hearts Five of Clubs: Win Prob - 0.432 Tie Prob - 0.05
+
+Jack of Hearts Six of Clubs: Win Prob - 0.463 Tie Prob - 0.051
+
+Jack of Hearts Seven of Clubs: Win Prob - 0.461 Tie Prob - 0.041
+
+Jack of Hearts Eight of Clubs: Win Prob - 0.49 Tie Prob - 0.047
+
+Jack of Hearts Nine of Clubs: Win Prob - 0.535 Tie Prob - 0.038
+
+Jack of Hearts Ten of Clubs: Win Prob - 0.533 Tie Prob - 0.03
+
+Jack of Hearts Jack of Clubs: Win Prob - 0.756 Tie Prob - 0.012
+
+Jack of Hearts Queen of Clubs: Win Prob - 0.564 Tie Prob - 0.032
+
+Jack of Hearts King of Clubs: Win Prob - 0.595 Tie Prob - 0.031
+
+Jack of Hearts Ace of Clubs: Win Prob - 0.649 Tie Prob - 0.027
+
+Jack of Hearts Two of Spades: Win Prob - 0.435 Tie Prob - 0.037
+
+Jack of Hearts Three of Spades: Win Prob - 0.426 Tie Prob - 0.049
+
+Jack of Hearts Four of Spades: Win Prob - 0.449 Tie Prob - 0.049
+
+Jack of Hearts Five of Spades: Win Prob - 0.453 Tie Prob - 0.043
+
+Jack of Hearts Six of Spades: Win Prob - 0.474 Tie Prob - 0.042
+
+Jack of Hearts Seven of Spades: Win Prob - 0.451 Tie Prob - 0.048
+
+Jack of Hearts Eight of Spades: Win Prob - 0.511 Tie Prob - 0.033
+
+Jack of Hearts Nine of Spades: Win Prob - 0.49 Tie Prob - 0.036
+
+Jack of Hearts Ten of Spades: Win Prob - 0.569 Tie Prob - 0.039
+
+Jack of Hearts Jack of Spades: Win Prob - 0.78 Tie Prob - 0.008
+
+Jack of Hearts Queen of Spades: Win Prob - 0.556 Tie Prob - 0.04
+
+Jack of Hearts King of Spades: Win Prob - 0.627 Tie Prob - 0.032
+
+Jack of Hearts Ace of Spades: Win Prob - 0.626 Tie Prob - 0.032
+
+Jack of Hearts Two of Diamonds: Win Prob - 0.42 Tie Prob - 0.046
+
+Jack of Hearts Three of Diamonds: Win Prob - 0.43 Tie Prob - 0.048
+
+Jack of Hearts Four of Diamonds: Win Prob - 0.45 Tie Prob - 0.043
+
+Jack of Hearts Five of Diamonds: Win Prob - 0.443 Tie Prob - 0.052
+
+Jack of Hearts Six of Diamonds: Win Prob - 0.481 Tie Prob - 0.034
+
+Jack of Hearts Seven of Diamonds: Win Prob - 0.483 Tie Prob - 0.042
+
+Jack of Hearts Eight of Diamonds: Win Prob - 0.514 Tie Prob - 0.041
+
+Jack of Hearts Nine of Diamonds: Win Prob - 0.513 Tie Prob - 0.042
+
+Jack of Hearts Ten of Diamonds: Win Prob - 0.525 Tie Prob - 0.047
+
+Jack of Hearts Jack of Diamonds: Win Prob - 0.75 Tie Prob - 0.009
+
+Jack of Hearts Queen of Diamonds: Win Prob - 0.602 Tie Prob - 0.039
+
+Jack of Hearts King of Diamonds: Win Prob - 0.58 Tie Prob - 0.034
+
+Jack of Hearts Ace of Diamonds: Win Prob - 0.63 Tie Prob - 0.033
+
+Queen of Hearts King of Hearts: Win Prob - 0.596 Tie Prob - 0.033
+
+Queen of Hearts Ace of Hearts: Win Prob - 0.636 Tie Prob - 0.027
+
+Queen of Hearts Two of Clubs: Win Prob - 0.416 Tie Prob - 0.035
+
+Queen of Hearts Three of Clubs: Win Prob - 0.41 Tie Prob - 0.033
+
+Queen of Hearts Four of Clubs: Win Prob - 0.447 Tie Prob - 0.032
+
+Queen of Hearts Five of Clubs: Win Prob - 0.479 Tie Prob - 0.045
+
+Queen of Hearts Six of Clubs: Win Prob - 0.51 Tie Prob - 0.039
+
+Queen of Hearts Seven of Clubs: Win Prob - 0.5 Tie Prob - 0.046
+
+Queen of Hearts Eight of Clubs: Win Prob - 0.525 Tie Prob - 0.047
+
+Queen of Hearts Nine of Clubs: Win Prob - 0.544 Tie Prob - 0.04
+
+Queen of Hearts Ten of Clubs: Win Prob - 0.595 Tie Prob - 0.035
+
+Queen of Hearts Jack of Clubs: Win Prob - 0.57 Tie Prob - 0.031
+
+Queen of Hearts Queen of Clubs: Win Prob - 0.788 Tie Prob - 0.008
+
+Queen of Hearts King of Clubs: Win Prob - 0.615 Tie Prob - 0.024
+
+Queen of Hearts Ace of Clubs: Win Prob - 0.617 Tie Prob - 0.03
+
+Queen of Hearts Two of Spades: Win Prob - 0.42 Tie Prob - 0.05
+
+Queen of Hearts Three of Spades: Win Prob - 0.449 Tie Prob - 0.048
+
+Queen of Hearts Four of Spades: Win Prob - 0.453 Tie Prob - 0.051
+
+Queen of Hearts Five of Spades: Win Prob - 0.46 Tie Prob - 0.046
+
+Queen of Hearts Six of Spades: Win Prob - 0.477 Tie Prob - 0.048
+
+Queen of Hearts Seven of Spades: Win Prob - 0.508 Tie Prob - 0.03
+
+Queen of Hearts Eight of Spades: Win Prob - 0.542 Tie Prob - 0.036
+
+Queen of Hearts Nine of Spades: Win Prob - 0.553 Tie Prob - 0.028
+
+Queen of Hearts Ten of Spades: Win Prob - 0.567 Tie Prob - 0.032
+
+Queen of Hearts Jack of Spades: Win Prob - 0.552 Tie Prob - 0.042
+
+Queen of Hearts Queen of Spades: Win Prob - 0.787 Tie Prob - 0.007
+
+Queen of Hearts King of Spades: Win Prob - 0.574 Tie Prob - 0.035
+
+Queen of Hearts Ace of Spades: Win Prob - 0.61 Tie Prob - 0.019
+
+Queen of Hearts Two of Diamonds: Win Prob - 0.423 Tie Prob - 0.042
+
+Queen of Hearts Three of Diamonds: Win Prob - 0.482 Tie Prob - 0.04
+
+Queen of Hearts Four of Diamonds: Win Prob - 0.447 Tie Prob - 0.048
+
+Queen of Hearts Five of Diamonds: Win Prob - 0.463 Tie Prob - 0.064
+
+Queen of Hearts Six of Diamonds: Win Prob - 0.481 Tie Prob - 0.048
+
+Queen of Hearts Seven of Diamonds: Win Prob - 0.519 Tie Prob - 0.035
+
+Queen of Hearts Eight of Diamonds: Win Prob - 0.524 Tie Prob - 0.032
+
+Queen of Hearts Nine of Diamonds: Win Prob - 0.543 Tie Prob - 0.033
+
+Queen of Hearts Ten of Diamonds: Win Prob - 0.542 Tie Prob - 0.039
+
+Queen of Hearts Jack of Diamonds: Win Prob - 0.577 Tie Prob - 0.028
+
+Queen of Hearts Queen of Diamonds: Win Prob - 0.8 Tie Prob - 0.005
+
+Queen of Hearts King of Diamonds: Win Prob - 0.599 Tie Prob - 0.042
+
+Queen of Hearts Ace of Diamonds: Win Prob - 0.622 Tie Prob - 0.031
+
+King of Hearts Ace of Hearts: Win Prob - 0.644 Tie Prob - 0.029
+
+King of Hearts Two of Clubs: Win Prob - 0.481 Tie Prob - 0.039
+
+King of Hearts Three of Clubs: Win Prob - 0.48 Tie Prob - 0.042
+
+King of Hearts Four of Clubs: Win Prob - 0.511 Tie Prob - 0.045
+
+King of Hearts Five of Clubs: Win Prob - 0.496 Tie Prob - 0.035
+
+King of Hearts Six of Clubs: Win Prob - 0.518 Tie Prob - 0.038
+
+King of Hearts Seven of Clubs: Win Prob - 0.52 Tie Prob - 0.043
+
+King of Hearts Eight of Clubs: Win Prob - 0.552 Tie Prob - 0.025
+
+King of Hearts Nine of Clubs: Win Prob - 0.551 Tie Prob - 0.028
+
+King of Hearts Ten of Clubs: Win Prob - 0.581 Tie Prob - 0.023
+
+King of Hearts Jack of Clubs: Win Prob - 0.589 Tie Prob - 0.038
+
+King of Hearts Queen of Clubs: Win Prob - 0.592 Tie Prob - 0.03
+
+King of Hearts King of Clubs: Win Prob - 0.823 Tie Prob - 0.003
+
+King of Hearts Ace of Clubs: Win Prob - 0.643 Tie Prob - 0.034
+
+King of Hearts Two of Spades: Win Prob - 0.472 Tie Prob - 0.039
+
+King of Hearts Three of Spades: Win Prob - 0.475 Tie Prob - 0.032
+
+King of Hearts Four of Spades: Win Prob - 0.479 Tie Prob - 0.046
+
+King of Hearts Five of Spades: Win Prob - 0.502 Tie Prob - 0.047
+
+King of Hearts Six of Spades: Win Prob - 0.5 Tie Prob - 0.044
+
+King of Hearts Seven of Spades: Win Prob - 0.529 Tie Prob - 0.031
+
+King of Hearts Eight of Spades: Win Prob - 0.535 Tie Prob - 0.041
+
+King of Hearts Nine of Spades: Win Prob - 0.543 Tie Prob - 0.048
+
+King of Hearts Ten of Spades: Win Prob - 0.578 Tie Prob - 0.025
+
+King of Hearts Jack of Spades: Win Prob - 0.575 Tie Prob - 0.034
+
+King of Hearts Queen of Spades: Win Prob - 0.617 Tie Prob - 0.039
+
+King of Hearts King of Spades: Win Prob - 0.857 Tie Prob - 0.005
+
+King of Hearts Ace of Spades: Win Prob - 0.617 Tie Prob - 0.03
+
+King of Hearts Two of Diamonds: Win Prob - 0.455 Tie Prob - 0.049
+
+King of Hearts Three of Diamonds: Win Prob - 0.458 Tie Prob - 0.038
+
+King of Hearts Four of Diamonds: Win Prob - 0.506 Tie Prob - 0.04
+
+King of Hearts Five of Diamonds: Win Prob - 0.519 Tie Prob - 0.042
+
+King of Hearts Six of Diamonds: Win Prob - 0.511 Tie Prob - 0.052
+
+King of Hearts Seven of Diamonds: Win Prob - 0.506 Tie Prob - 0.044
+
+King of Hearts Eight of Diamonds: Win Prob - 0.543 Tie Prob - 0.03
+
+King of Hearts Nine of Diamonds: Win Prob - 0.56 Tie Prob - 0.029
+
+King of Hearts Ten of Diamonds: Win Prob - 0.61 Tie Prob - 0.018
+
+King of Hearts Jack of Diamonds: Win Prob - 0.599 Tie Prob - 0.044
+
+King of Hearts Queen of Diamonds: Win Prob - 0.595 Tie Prob - 0.029
+
+King of Hearts King of Diamonds: Win Prob - 0.828 Tie Prob - 0.006
+
+King of Hearts Ace of Diamonds: Win Prob - 0.652 Tie Prob - 0.03
+
+Ace of Hearts Two of Clubs: Win Prob - 0.495 Tie Prob - 0.042
+
+Ace of Hearts Three of Clubs: Win Prob - 0.507 Tie Prob - 0.042
+
+Ace of Hearts Four of Clubs: Win Prob - 0.522 Tie Prob - 0.037
+
+Ace of Hearts Five of Clubs: Win Prob - 0.522 Tie Prob - 0.043
+
+Ace of Hearts Six of Clubs: Win Prob - 0.532 Tie Prob - 0.043
+
+Ace of Hearts Seven of Clubs: Win Prob - 0.557 Tie Prob - 0.054
+
+Ace of Hearts Eight of Clubs: Win Prob - 0.57 Tie Prob - 0.041
+
+Ace of Hearts Nine of Clubs: Win Prob - 0.587 Tie Prob - 0.031
+
+Ace of Hearts Ten of Clubs: Win Prob - 0.623 Tie Prob - 0.039
+
+Ace of Hearts Jack of Clubs: Win Prob - 0.601 Tie Prob - 0.037
+
+Ace of Hearts Queen of Clubs: Win Prob - 0.617 Tie Prob - 0.041
+
+Ace of Hearts King of Clubs: Win Prob - 0.651 Tie Prob - 0.029
+
+Ace of Hearts Ace of Clubs: Win Prob - 0.863 Tie Prob - 0.003
+
+Ace of Hearts Two of Spades: Win Prob - 0.474 Tie Prob - 0.05
+
+Ace of Hearts Three of Spades: Win Prob - 0.515 Tie Prob - 0.035
+
+Ace of Hearts Four of Spades: Win Prob - 0.535 Tie Prob - 0.04
+
+Ace of Hearts Five of Spades: Win Prob - 0.547 Tie Prob - 0.045
+
+Ace of Hearts Six of Spades: Win Prob - 0.562 Tie Prob - 0.04
+
+Ace of Hearts Seven of Spades: Win Prob - 0.543 Tie Prob - 0.041
+
+Ace of Hearts Eight of Spades: Win Prob - 0.549 Tie Prob - 0.041
+
+Ace of Hearts Nine of Spades: Win Prob - 0.602 Tie Prob - 0.038
+
+Ace of Hearts Ten of Spades: Win Prob - 0.601 Tie Prob - 0.03
+
+Ace of Hearts Jack of Spades: Win Prob - 0.616 Tie Prob - 0.033
+
+Ace of Hearts Queen of Spades: Win Prob - 0.594 Tie Prob - 0.032
+
+Ace of Hearts King of Spades: Win Prob - 0.613 Tie Prob - 0.033
+
+Ace of Hearts Ace of Spades: Win Prob - 0.855 Tie Prob - 0.007
+
+Ace of Hearts Two of Diamonds: Win Prob - 0.529 Tie Prob - 0.039
+
+Ace of Hearts Three of Diamonds: Win Prob - 0.519 Tie Prob - 0.038
+
+Ace of Hearts Four of Diamonds: Win Prob - 0.539 Tie Prob - 0.041
+
+Ace of Hearts Five of Diamonds: Win Prob - 0.533 Tie Prob - 0.037
+
+Ace of Hearts Six of Diamonds: Win Prob - 0.54 Tie Prob - 0.044
+
+Ace of Hearts Seven of Diamonds: Win Prob - 0.519 Tie Prob - 0.048
+
+Ace of Hearts Eight of Diamonds: Win Prob - 0.577 Tie Prob - 0.04
+
+Ace of Hearts Nine of Diamonds: Win Prob - 0.598 Tie Prob - 0.039
+
+Ace of Hearts Ten of Diamonds: Win Prob - 0.614 Tie Prob - 0.032
+
+Ace of Hearts Jack of Diamonds: Win Prob - 0.604 Tie Prob - 0.027
+
+Ace of Hearts Queen of Diamonds: Win Prob - 0.63 Tie Prob - 0.022
+
+Ace of Hearts King of Diamonds: Win Prob - 0.644 Tie Prob - 0.026
+
+Ace of Hearts Ace of Diamonds: Win Prob - 0.867 Tie Prob - 0.003
+
+Two of Clubs Three of Clubs: Win Prob - 0.331 Tie Prob - 0.044
+
+Two of Clubs Four of Clubs: Win Prob - 0.334 Tie Prob - 0.057
+
+Two of Clubs Five of Clubs: Win Prob - 0.337 Tie Prob - 0.057
+
+Two of Clubs Six of Clubs: Win Prob - 0.327 Tie Prob - 0.064
+
+Two of Clubs Seven of Clubs: Win Prob - 0.389 Tie Prob - 0.05
+
+Two of Clubs Eight of Clubs: Win Prob - 0.392 Tie Prob - 0.049
+
+Two of Clubs Nine of Clubs: Win Prob - 0.39 Tie Prob - 0.043
+
+Two of Clubs Ten of Clubs: Win Prob - 0.43 Tie Prob - 0.039
+
+Two of Clubs Jack of Clubs: Win Prob - 0.444 Tie Prob - 0.043
+
+Two of Clubs Queen of Clubs: Win Prob - 0.455 Tie Prob - 0.047
+
+Two of Clubs King of Clubs: Win Prob - 0.508 Tie Prob - 0.03
+
+Two of Clubs Ace of Clubs: Win Prob - 0.55 Tie Prob - 0.039
+
+Two of Clubs Two of Spades: Win Prob - 0.503 Tie Prob - 0.011
+
+Two of Clubs Three of Spades: Win Prob - 0.289 Tie Prob - 0.049
+
+Two of Clubs Four of Spades: Win Prob - 0.283 Tie Prob - 0.059
+
+Two of Clubs Five of Spades: Win Prob - 0.295 Tie Prob - 0.055
+
+Two of Clubs Six of Spades: Win Prob - 0.305 Tie Prob - 0.051
+
+Two of Clubs Seven of Spades: Win Prob - 0.33 Tie Prob - 0.059
+
+Two of Clubs Eight of Spades: Win Prob - 0.331 Tie Prob - 0.051
+
+Two of Clubs Nine of Spades: Win Prob - 0.376 Tie Prob - 0.053
+
+Two of Clubs Ten of Spades: Win Prob - 0.357 Tie Prob - 0.051
+
+Two of Clubs Jack of Spades: Win Prob - 0.403 Tie Prob - 0.044
+
+Two of Clubs Queen of Spades: Win Prob - 0.437 Tie Prob - 0.043
+
+Two of Clubs King of Spades: Win Prob - 0.452 Tie Prob - 0.031
+
+Two of Clubs Ace of Spades: Win Prob - 0.524 Tie Prob - 0.043
+
+Two of Clubs Two of Diamonds: Win Prob - 0.498 Tie Prob - 0.013
+
+Two of Clubs Three of Diamonds: Win Prob - 0.28 Tie Prob - 0.053
+
+Two of Clubs Four of Diamonds: Win Prob - 0.304 Tie Prob - 0.059
+
+Two of Clubs Five of Diamonds: Win Prob - 0.319 Tie Prob - 0.051
+
+Two of Clubs Six of Diamonds: Win Prob - 0.311 Tie Prob - 0.054
+
+Two of Clubs Seven of Diamonds: Win Prob - 0.335 Tie Prob - 0.061
+
+Two of Clubs Eight of Diamonds: Win Prob - 0.357 Tie Prob - 0.054
+
+Two of Clubs Nine of Diamonds: Win Prob - 0.362 Tie Prob - 0.05
+
+Two of Clubs Ten of Diamonds: Win Prob - 0.353 Tie Prob - 0.032
+
+Two of Clubs Jack of Diamonds: Win Prob - 0.394 Tie Prob - 0.05
+
+Two of Clubs Queen of Diamonds: Win Prob - 0.439 Tie Prob - 0.04
+
+Two of Clubs King of Diamonds: Win Prob - 0.458 Tie Prob - 0.028
+
+Two of Clubs Ace of Diamonds: Win Prob - 0.503 Tie Prob - 0.03
+
+Three of Clubs Four of Clubs: Win Prob - 0.382 Tie Prob - 0.044
+
+Three of Clubs Five of Clubs: Win Prob - 0.378 Tie Prob - 0.048
+
+Three of Clubs Six of Clubs: Win Prob - 0.347 Tie Prob - 0.049
+
+Three of Clubs Seven of Clubs: Win Prob - 0.363 Tie Prob - 0.046
+
+Three of Clubs Eight of Clubs: Win Prob - 0.385 Tie Prob - 0.046
+
+Three of Clubs Nine of Clubs: Win Prob - 0.418 Tie Prob - 0.048
+
+Three of Clubs Ten of Clubs: Win Prob - 0.425 Tie Prob - 0.05
+
+Three of Clubs Jack of Clubs: Win Prob - 0.472 Tie Prob - 0.051
+
+Three of Clubs Queen of Clubs: Win Prob - 0.473 Tie Prob - 0.035
+
+Three of Clubs King of Clubs: Win Prob - 0.512 Tie Prob - 0.035
+
+Three of Clubs Ace of Clubs: Win Prob - 0.574 Tie Prob - 0.045
+
+Three of Clubs Two of Spades: Win Prob - 0.311 Tie Prob - 0.047
+
+Three of Clubs Three of Spades: Win Prob - 0.532 Tie Prob - 0.014
+
+Three of Clubs Four of Spades: Win Prob - 0.333 Tie Prob - 0.06
+
+Three of Clubs Five of Spades: Win Prob - 0.335 Tie Prob - 0.068
+
+Three of Clubs Six of Spades: Win Prob - 0.336 Tie Prob - 0.047
+
+Three of Clubs Seven of Spades: Win Prob - 0.328 Tie Prob - 0.06
+
+Three of Clubs Eight of Spades: Win Prob - 0.348 Tie Prob - 0.051
+
+Three of Clubs Nine of Spades: Win Prob - 0.377 Tie Prob - 0.046
+
+Three of Clubs Ten of Spades: Win Prob - 0.388 Tie Prob - 0.053
+
+Three of Clubs Jack of Spades: Win Prob - 0.395 Tie Prob - 0.054
+
+Three of Clubs Queen of Spades: Win Prob - 0.46 Tie Prob - 0.04
+
+Three of Clubs King of Spades: Win Prob - 0.475 Tie Prob - 0.032
+
+Three of Clubs Ace of Spades: Win Prob - 0.509 Tie Prob - 0.049
+
+Three of Clubs Two of Diamonds: Win Prob - 0.285 Tie Prob - 0.05
+
+Three of Clubs Three of Diamonds: Win Prob - 0.517 Tie Prob - 0.012
+
+Three of Clubs Four of Diamonds: Win Prob - 0.353 Tie Prob - 0.046
+
+Three of Clubs Five of Diamonds: Win Prob - 0.343 Tie Prob - 0.048
+
+Three of Clubs Six of Diamonds: Win Prob - 0.332 Tie Prob - 0.06
+
+Three of Clubs Seven of Diamonds: Win Prob - 0.313 Tie Prob - 0.055
+
+Three of Clubs Eight of Diamonds: Win Prob - 0.321 Tie Prob - 0.058
+
+Three of Clubs Nine of Diamonds: Win Prob - 0.355 Tie Prob - 0.05
+
+Three of Clubs Ten of Diamonds: Win Prob - 0.422 Tie Prob - 0.048
+
+Three of Clubs Jack of Diamonds: Win Prob - 0.434 Tie Prob - 0.048
+
+Three of Clubs Queen of Diamonds: Win Prob - 0.443 Tie Prob - 0.035
+
+Three of Clubs King of Diamonds: Win Prob - 0.467 Tie Prob - 0.039
+
+Three of Clubs Ace of Diamonds: Win Prob - 0.527 Tie Prob - 0.037
+
+Four of Clubs Five of Clubs: Win Prob - 0.399 Tie Prob - 0.054
+
+Four of Clubs Six of Clubs: Win Prob - 0.375 Tie Prob - 0.063
+
+Four of Clubs Seven of Clubs: Win Prob - 0.415 Tie Prob - 0.051
+
+Four of Clubs Eight of Clubs: Win Prob - 0.404 Tie Prob - 0.053
+
+Four of Clubs Nine of Clubs: Win Prob - 0.425 Tie Prob - 0.042
+
+Four of Clubs Ten of Clubs: Win Prob - 0.457 Tie Prob - 0.047
+
+Four of Clubs Jack of Clubs: Win Prob - 0.497 Tie Prob - 0.041
+
+Four of Clubs Queen of Clubs: Win Prob - 0.503 Tie Prob - 0.043
+
+Four of Clubs King of Clubs: Win Prob - 0.517 Tie Prob - 0.043
+
+Four of Clubs Ace of Clubs: Win Prob - 0.552 Tie Prob - 0.06
+
+Four of Clubs Two of Spades: Win Prob - 0.308 Tie Prob - 0.056
+
+Four of Clubs Three of Spades: Win Prob - 0.336 Tie Prob - 0.045
+
+Four of Clubs Four of Spades: Win Prob - 0.582 Tie Prob - 0.008
+
+Four of Clubs Five of Spades: Win Prob - 0.345 Tie Prob - 0.053
+
+Four of Clubs Six of Spades: Win Prob - 0.357 Tie Prob - 0.054
+
+Four of Clubs Seven of Spades: Win Prob - 0.39 Tie Prob - 0.055
+
+Four of Clubs Eight of Spades: Win Prob - 0.364 Tie Prob - 0.05
+
+Four of Clubs Nine of Spades: Win Prob - 0.415 Tie Prob - 0.042
+
+Four of Clubs Ten of Spades: Win Prob - 0.399 Tie Prob - 0.05
+
+Four of Clubs Jack of Spades: Win Prob - 0.438 Tie Prob - 0.051
+
+Four of Clubs Queen of Spades: Win Prob - 0.442 Tie Prob - 0.054
+
+Four of Clubs King of Spades: Win Prob - 0.486 Tie Prob - 0.044
+
+Four of Clubs Ace of Spades: Win Prob - 0.506 Tie Prob - 0.037
+
+Four of Clubs Two of Diamonds: Win Prob - 0.31 Tie Prob - 0.042
+
+Four of Clubs Three of Diamonds: Win Prob - 0.336 Tie Prob - 0.055
+
+Four of Clubs Four of Diamonds: Win Prob - 0.561 Tie Prob - 0.009
+
+Four of Clubs Five of Diamonds: Win Prob - 0.384 Tie Prob - 0.049
+
+Four of Clubs Six of Diamonds: Win Prob - 0.361 Tie Prob - 0.054
+
+Four of Clubs Seven of Diamonds: Win Prob - 0.363 Tie Prob - 0.04
+
+Four of Clubs Eight of Diamonds: Win Prob - 0.366 Tie Prob - 0.043
+
+Four of Clubs Nine of Diamonds: Win Prob - 0.37 Tie Prob - 0.047
+
+Four of Clubs Ten of Diamonds: Win Prob - 0.416 Tie Prob - 0.055
+
+Four of Clubs Jack of Diamonds: Win Prob - 0.421 Tie Prob - 0.046
+
+Four of Clubs Queen of Diamonds: Win Prob - 0.444 Tie Prob - 0.042
+
+Four of Clubs King of Diamonds: Win Prob - 0.499 Tie Prob - 0.032
+
+Four of Clubs Ace of Diamonds: Win Prob - 0.521 Tie Prob - 0.048
+
+Five of Clubs Six of Clubs: Win Prob - 0.442 Tie Prob - 0.04
+
+Five of Clubs Seven of Clubs: Win Prob - 0.427 Tie Prob - 0.058
+
+Five of Clubs Eight of Clubs: Win Prob - 0.421 Tie Prob - 0.055
+
+Five of Clubs Nine of Clubs: Win Prob - 0.429 Tie Prob - 0.063
+
+Five of Clubs Ten of Clubs: Win Prob - 0.454 Tie Prob - 0.039
+
+Five of Clubs Jack of Clubs: Win Prob - 0.483 Tie Prob - 0.041
+
+Five of Clubs Queen of Clubs: Win Prob - 0.489 Tie Prob - 0.039
+
+Five of Clubs King of Clubs: Win Prob - 0.528 Tie Prob - 0.045
+
+Five of Clubs Ace of Clubs: Win Prob - 0.571 Tie Prob - 0.035
+
+Five of Clubs Two of Spades: Win Prob - 0.321 Tie Prob - 0.059
+
+Five of Clubs Three of Spades: Win Prob - 0.338 Tie Prob - 0.063
+
+Five of Clubs Four of Spades: Win Prob - 0.341 Tie Prob - 0.055
+
+Five of Clubs Five of Spades: Win Prob - 0.631 Tie Prob - 0.011
+
+Five of Clubs Six of Spades: Win Prob - 0.373 Tie Prob - 0.063
+
+Five of Clubs Seven of Spades: Win Prob - 0.389 Tie Prob - 0.055
+
+Five of Clubs Eight of Spades: Win Prob - 0.416 Tie Prob - 0.051
+
+Five of Clubs Nine of Spades: Win Prob - 0.42 Tie Prob - 0.044
+
+Five of Clubs Ten of Spades: Win Prob - 0.446 Tie Prob - 0.048
+
+Five of Clubs Jack of Spades: Win Prob - 0.455 Tie Prob - 0.049
+
+Five of Clubs Queen of Spades: Win Prob - 0.478 Tie Prob - 0.038
+
+Five of Clubs King of Spades: Win Prob - 0.495 Tie Prob - 0.039
+
+Five of Clubs Ace of Spades: Win Prob - 0.532 Tie Prob - 0.044
+
+Five of Clubs Two of Diamonds: Win Prob - 0.319 Tie Prob - 0.057
+
+Five of Clubs Three of Diamonds: Win Prob - 0.331 Tie Prob - 0.069
+
+Five of Clubs Four of Diamonds: Win Prob - 0.337 Tie Prob - 0.067
+
+Five of Clubs Five of Diamonds: Win Prob - 0.592 Tie Prob - 0.011
+
+Five of Clubs Six of Diamonds: Win Prob - 0.39 Tie Prob - 0.051
+
+Five of Clubs Seven of Diamonds: Win Prob - 0.402 Tie Prob - 0.038
+
+Five of Clubs Eight of Diamonds: Win Prob - 0.396 Tie Prob - 0.055
+
+Five of Clubs Nine of Diamonds: Win Prob - 0.397 Tie Prob - 0.05
+
+Five of Clubs Ten of Diamonds: Win Prob - 0.416 Tie Prob - 0.048
+
+Five of Clubs Jack of Diamonds: Win Prob - 0.469 Tie Prob - 0.035
+
+Five of Clubs Queen of Diamonds: Win Prob - 0.486 Tie Prob - 0.046
+
+Five of Clubs King of Diamonds: Win Prob - 0.525 Tie Prob - 0.056
+
+Five of Clubs Ace of Diamonds: Win Prob - 0.56 Tie Prob - 0.045
+
+Six of Clubs Seven of Clubs: Win Prob - 0.444 Tie Prob - 0.045
+
+Six of Clubs Eight of Clubs: Win Prob - 0.446 Tie Prob - 0.045
+
+Six of Clubs Nine of Clubs: Win Prob - 0.456 Tie Prob - 0.039
+
+Six of Clubs Ten of Clubs: Win Prob - 0.461 Tie Prob - 0.053
+
+Six of Clubs Jack of Clubs: Win Prob - 0.488 Tie Prob - 0.045
+
+Six of Clubs Queen of Clubs: Win Prob - 0.508 Tie Prob - 0.045
+
+Six of Clubs King of Clubs: Win Prob - 0.57 Tie Prob - 0.038
+
+Six of Clubs Ace of Clubs: Win Prob - 0.568 Tie Prob - 0.043
+
+Six of Clubs Two of Spades: Win Prob - 0.289 Tie Prob - 0.061
+
+Six of Clubs Three of Spades: Win Prob - 0.322 Tie Prob - 0.052
+
+Six of Clubs Four of Spades: Win Prob - 0.339 Tie Prob - 0.044
+
+Six of Clubs Five of Spades: Win Prob - 0.388 Tie Prob - 0.049
+
+Six of Clubs Six of Spades: Win Prob - 0.644 Tie Prob - 0.013
+
+Six of Clubs Seven of Spades: Win Prob - 0.432 Tie Prob - 0.046
+
+Six of Clubs Eight of Spades: Win Prob - 0.407 Tie Prob - 0.063
+
+Six of Clubs Nine of Spades: Win Prob - 0.413 Tie Prob - 0.058
+
+Six of Clubs Ten of Spades: Win Prob - 0.461 Tie Prob - 0.051
+
+Six of Clubs Jack of Spades: Win Prob - 0.477 Tie Prob - 0.044
+
+Six of Clubs Queen of Spades: Win Prob - 0.493 Tie Prob - 0.038
+
+Six of Clubs King of Spades: Win Prob - 0.527 Tie Prob - 0.044
+
+Six of Clubs Ace of Spades: Win Prob - 0.529 Tie Prob - 0.039
+
+Six of Clubs Two of Diamonds: Win Prob - 0.303 Tie Prob - 0.056
+
+Six of Clubs Three of Diamonds: Win Prob - 0.314 Tie Prob - 0.063
+
+Six of Clubs Four of Diamonds: Win Prob - 0.368 Tie Prob - 0.057
+
+Six of Clubs Five of Diamonds: Win Prob - 0.374 Tie Prob - 0.059
+
+Six of Clubs Six of Diamonds: Win Prob - 0.627 Tie Prob - 0.014
+
+Six of Clubs Seven of Diamonds: Win Prob - 0.391 Tie Prob - 0.046
+
+Six of Clubs Eight of Diamonds: Win Prob - 0.435 Tie Prob - 0.046
+
+Six of Clubs Nine of Diamonds: Win Prob - 0.399 Tie Prob - 0.038
+
+Six of Clubs Ten of Diamonds: Win Prob - 0.447 Tie Prob - 0.038
+
+Six of Clubs Jack of Diamonds: Win Prob - 0.453 Tie Prob - 0.05
+
+Six of Clubs Queen of Diamonds: Win Prob - 0.504 Tie Prob - 0.04
+
+Six of Clubs King of Diamonds: Win Prob - 0.52 Tie Prob - 0.042
+
+Six of Clubs Ace of Diamonds: Win Prob - 0.554 Tie Prob - 0.042
+
+Seven of Clubs Eight of Clubs: Win Prob - 0.455 Tie Prob - 0.054
+
+Seven of Clubs Nine of Clubs: Win Prob - 0.48 Tie Prob - 0.043
+
+Seven of Clubs Ten of Clubs: Win Prob - 0.505 Tie Prob - 0.052
+
+Seven of Clubs Jack of Clubs: Win Prob - 0.505 Tie Prob - 0.05
+
+Seven of Clubs Queen of Clubs: Win Prob - 0.533 Tie Prob - 0.042
+
+Seven of Clubs King of Clubs: Win Prob - 0.564 Tie Prob - 0.038
+
+Seven of Clubs Ace of Clubs: Win Prob - 0.577 Tie Prob - 0.046
+
+Seven of Clubs Two of Spades: Win Prob - 0.294 Tie Prob - 0.052
+
+Seven of Clubs Three of Spades: Win Prob - 0.361 Tie Prob - 0.049
+
+Seven of Clubs Four of Spades: Win Prob - 0.374 Tie Prob - 0.048
+
+Seven of Clubs Five of Spades: Win Prob - 0.407 Tie Prob - 0.049
+
+Seven of Clubs Six of Spades: Win Prob - 0.406 Tie Prob - 0.055
+
+Seven of Clubs Seven of Spades: Win Prob - 0.655 Tie Prob - 0.018
+
+Seven of Clubs Eight of Spades: Win Prob - 0.427 Tie Prob - 0.059
+
+Seven of Clubs Nine of Spades: Win Prob - 0.454 Tie Prob - 0.035
+
+Seven of Clubs Ten of Spades: Win Prob - 0.463 Tie Prob - 0.049
+
+Seven of Clubs Jack of Spades: Win Prob - 0.471 Tie Prob - 0.05
+
+Seven of Clubs Queen of Spades: Win Prob - 0.516 Tie Prob - 0.042
+
+Seven of Clubs King of Spades: Win Prob - 0.523 Tie Prob - 0.045
+
+Seven of Clubs Ace of Spades: Win Prob - 0.548 Tie Prob - 0.055
+
+Seven of Clubs Two of Diamonds: Win Prob - 0.333 Tie Prob - 0.051
+
+Seven of Clubs Three of Diamonds: Win Prob - 0.37 Tie Prob - 0.045
+
+Seven of Clubs Four of Diamonds: Win Prob - 0.389 Tie Prob - 0.054
+
+Seven of Clubs Five of Diamonds: Win Prob - 0.394 Tie Prob - 0.046
+
+Seven of Clubs Six of Diamonds: Win Prob - 0.406 Tie Prob - 0.069
+
+Seven of Clubs Seven of Diamonds: Win Prob - 0.654 Tie Prob - 0.009
+
+Seven of Clubs Eight of Diamonds: Win Prob - 0.405 Tie Prob - 0.051
+
+Seven of Clubs Nine of Diamonds: Win Prob - 0.484 Tie Prob - 0.043
+
+Seven of Clubs Ten of Diamonds: Win Prob - 0.441 Tie Prob - 0.043
+
+Seven of Clubs Jack of Diamonds: Win Prob - 0.469 Tie Prob - 0.039
+
+Seven of Clubs Queen of Diamonds: Win Prob - 0.511 Tie Prob - 0.041
+
+Seven of Clubs King of Diamonds: Win Prob - 0.54 Tie Prob - 0.045
+
+Seven of Clubs Ace of Diamonds: Win Prob - 0.565 Tie Prob - 0.033
+
+Eight of Clubs Nine of Clubs: Win Prob - 0.479 Tie Prob - 0.05
+
+Eight of Clubs Ten of Clubs: Win Prob - 0.542 Tie Prob - 0.036
+
+Eight of Clubs Jack of Clubs: Win Prob - 0.551 Tie Prob - 0.039
+
+Eight of Clubs Queen of Clubs: Win Prob - 0.522 Tie Prob - 0.035
+
+Eight of Clubs King of Clubs: Win Prob - 0.552 Tie Prob - 0.03
+
+Eight of Clubs Ace of Clubs: Win Prob - 0.624 Tie Prob - 0.036
+
+Eight of Clubs Two of Spades: Win Prob - 0.325 Tie Prob - 0.054
+
+Eight of Clubs Three of Spades: Win Prob - 0.376 Tie Prob - 0.045
+
+Eight of Clubs Four of Spades: Win Prob - 0.373 Tie Prob - 0.05
+
+Eight of Clubs Five of Spades: Win Prob - 0.417 Tie Prob - 0.055
+
+Eight of Clubs Six of Spades: Win Prob - 0.439 Tie Prob - 0.05
+
+Eight of Clubs Seven of Spades: Win Prob - 0.43 Tie Prob - 0.053
+
+Eight of Clubs Eight of Spades: Win Prob - 0.686 Tie Prob - 0.009
+
+Eight of Clubs Nine of Spades: Win Prob - 0.479 Tie Prob - 0.062
+
+Eight of Clubs Ten of Spades: Win Prob - 0.496 Tie Prob - 0.038
+
+Eight of Clubs Jack of Spades: Win Prob - 0.515 Tie Prob - 0.049
+
+Eight of Clubs Queen of Spades: Win Prob - 0.524 Tie Prob - 0.049
+
+Eight of Clubs King of Spades: Win Prob - 0.53 Tie Prob - 0.033
+
+Eight of Clubs Ace of Spades: Win Prob - 0.547 Tie Prob - 0.05
+
+Eight of Clubs Two of Diamonds: Win Prob - 0.325 Tie Prob - 0.053
+
+Eight of Clubs Three of Diamonds: Win Prob - 0.341 Tie Prob - 0.039
+
+Eight of Clubs Four of Diamonds: Win Prob - 0.367 Tie Prob - 0.048
+
+Eight of Clubs Five of Diamonds: Win Prob - 0.393 Tie Prob - 0.061
+
+Eight of Clubs Six of Diamonds: Win Prob - 0.416 Tie Prob - 0.038
+
+Eight of Clubs Seven of Diamonds: Win Prob - 0.413 Tie Prob - 0.041
+
+Eight of Clubs Eight of Diamonds: Win Prob - 0.684 Tie Prob - 0.012
+
+Eight of Clubs Nine of Diamonds: Win Prob - 0.475 Tie Prob - 0.042
+
+Eight of Clubs Ten of Diamonds: Win Prob - 0.496 Tie Prob - 0.05
+
+Eight of Clubs Jack of Diamonds: Win Prob - 0.503 Tie Prob - 0.032
+
+Eight of Clubs Queen of Diamonds: Win Prob - 0.524 Tie Prob - 0.035
+
+Eight of Clubs King of Diamonds: Win Prob - 0.53 Tie Prob - 0.05
+
+Eight of Clubs Ace of Diamonds: Win Prob - 0.574 Tie Prob - 0.03
+
+Nine of Clubs Ten of Clubs: Win Prob - 0.506 Tie Prob - 0.041
+
+Nine of Clubs Jack of Clubs: Win Prob - 0.553 Tie Prob - 0.033
+
+Nine of Clubs Queen of Clubs: Win Prob - 0.559 Tie Prob - 0.034
+
+Nine of Clubs King of Clubs: Win Prob - 0.594 Tie Prob - 0.03
+
+Nine of Clubs Ace of Clubs: Win Prob - 0.568 Tie Prob - 0.035
+
+Nine of Clubs Two of Spades: Win Prob - 0.388 Tie Prob - 0.059
+
+Nine of Clubs Three of Spades: Win Prob - 0.368 Tie Prob - 0.044
+
+Nine of Clubs Four of Spades: Win Prob - 0.399 Tie Prob - 0.057
+
+Nine of Clubs Five of Spades: Win Prob - 0.398 Tie Prob - 0.054
+
+Nine of Clubs Six of Spades: Win Prob - 0.426 Tie Prob - 0.05
+
+Nine of Clubs Seven of Spades: Win Prob - 0.45 Tie Prob - 0.034
+
+Nine of Clubs Eight of Spades: Win Prob - 0.447 Tie Prob - 0.048
+
+Nine of Clubs Nine of Spades: Win Prob - 0.717 Tie Prob - 0.005
+
+Nine of Clubs Ten of Spades: Win Prob - 0.508 Tie Prob - 0.032
+
+Nine of Clubs Jack of Spades: Win Prob - 0.547 Tie Prob - 0.023
+
+Nine of Clubs Queen of Spades: Win Prob - 0.528 Tie Prob - 0.036
+
+Nine of Clubs King of Spades: Win Prob - 0.586 Tie Prob - 0.039
+
+Nine of Clubs Ace of Spades: Win Prob - 0.589 Tie Prob - 0.041
+
+Nine of Clubs Two of Diamonds: Win Prob - 0.356 Tie Prob - 0.049
+
+Nine of Clubs Three of Diamonds: Win Prob - 0.369 Tie Prob - 0.037
+
+Nine of Clubs Four of Diamonds: Win Prob - 0.362 Tie Prob - 0.046
+
+Nine of Clubs Five of Diamonds: Win Prob - 0.417 Tie Prob - 0.041
+
+Nine of Clubs Six of Diamonds: Win Prob - 0.431 Tie Prob - 0.053
+
+Nine of Clubs Seven of Diamonds: Win Prob - 0.451 Tie Prob - 0.053
+
+Nine of Clubs Eight of Diamonds: Win Prob - 0.469 Tie Prob - 0.043
+
+Nine of Clubs Nine of Diamonds: Win Prob - 0.72 Tie Prob - 0.009
+
+Nine of Clubs Ten of Diamonds: Win Prob - 0.484 Tie Prob - 0.039
+
+Nine of Clubs Jack of Diamonds: Win Prob - 0.505 Tie Prob - 0.031
+
+Nine of Clubs Queen of Diamonds: Win Prob - 0.535 Tie Prob - 0.042
+
+Nine of Clubs King of Diamonds: Win Prob - 0.537 Tie Prob - 0.034
+
+Nine of Clubs Ace of Diamonds: Win Prob - 0.576 Tie Prob - 0.041
+
+Ten of Clubs Jack of Clubs: Win Prob - 0.556 Tie Prob - 0.037
+
+Ten of Clubs Queen of Clubs: Win Prob - 0.567 Tie Prob - 0.035
+
+Ten of Clubs King of Clubs: Win Prob - 0.589 Tie Prob - 0.033
+
+Ten of Clubs Ace of Clubs: Win Prob - 0.618 Tie Prob - 0.032
+
+Ten of Clubs Two of Spades: Win Prob - 0.37 Tie Prob - 0.046
+
+Ten of Clubs Three of Spades: Win Prob - 0.399 Tie Prob - 0.037
+
+Ten of Clubs Four of Spades: Win Prob - 0.399 Tie Prob - 0.037
+
+Ten of Clubs Five of Spades: Win Prob - 0.396 Tie Prob - 0.043
+
+Ten of Clubs Six of Spades: Win Prob - 0.475 Tie Prob - 0.037
+
+Ten of Clubs Seven of Spades: Win Prob - 0.484 Tie Prob - 0.05
+
+Ten of Clubs Eight of Spades: Win Prob - 0.489 Tie Prob - 0.039
+
+Ten of Clubs Nine of Spades: Win Prob - 0.505 Tie Prob - 0.045
+
+Ten of Clubs Ten of Spades: Win Prob - 0.761 Tie Prob - 0.008
+
+Ten of Clubs Jack of Spades: Win Prob - 0.554 Tie Prob - 0.032
+
+Ten of Clubs Queen of Spades: Win Prob - 0.549 Tie Prob - 0.032
+
+Ten of Clubs King of Spades: Win Prob - 0.58 Tie Prob - 0.031
+
+Ten of Clubs Ace of Spades: Win Prob - 0.62 Tie Prob - 0.028
+
+Ten of Clubs Two of Diamonds: Win Prob - 0.402 Tie Prob - 0.053
+
+Ten of Clubs Three of Diamonds: Win Prob - 0.416 Tie Prob - 0.04
+
+Ten of Clubs Four of Diamonds: Win Prob - 0.436 Tie Prob - 0.05
+
+Ten of Clubs Five of Diamonds: Win Prob - 0.418 Tie Prob - 0.046
+
+Ten of Clubs Six of Diamonds: Win Prob - 0.435 Tie Prob - 0.035
+
+Ten of Clubs Seven of Diamonds: Win Prob - 0.478 Tie Prob - 0.039
+
+Ten of Clubs Eight of Diamonds: Win Prob - 0.509 Tie Prob - 0.036
+
+Ten of Clubs Nine of Diamonds: Win Prob - 0.498 Tie Prob - 0.022
+
+Ten of Clubs Ten of Diamonds: Win Prob - 0.738 Tie Prob - 0.004
+
+Ten of Clubs Jack of Diamonds: Win Prob - 0.547 Tie Prob - 0.037
+
+Ten of Clubs Queen of Diamonds: Win Prob - 0.544 Tie Prob - 0.042
+
+Ten of Clubs King of Diamonds: Win Prob - 0.594 Tie Prob - 0.044
+
+Ten of Clubs Ace of Diamonds: Win Prob - 0.61 Tie Prob - 0.036
+
+Jack of Clubs Queen of Clubs: Win Prob - 0.569 Tie Prob - 0.025
+
+Jack of Clubs King of Clubs: Win Prob - 0.595 Tie Prob - 0.027
+
+Jack of Clubs Ace of Clubs: Win Prob - 0.619 Tie Prob - 0.036
+
+Jack of Clubs Two of Spades: Win Prob - 0.386 Tie Prob - 0.041
+
+Jack of Clubs Three of Spades: Win Prob - 0.44 Tie Prob - 0.05
+
+Jack of Clubs Four of Spades: Win Prob - 0.432 Tie Prob - 0.047
+
+Jack of Clubs Five of Spades: Win Prob - 0.421 Tie Prob - 0.052
+
+Jack of Clubs Six of Spades: Win Prob - 0.462 Tie Prob - 0.048
+
+Jack of Clubs Seven of Spades: Win Prob - 0.489 Tie Prob - 0.035
+
+Jack of Clubs Eight of Spades: Win Prob - 0.489 Tie Prob - 0.036
+
+Jack of Clubs Nine of Spades: Win Prob - 0.522 Tie Prob - 0.032
+
+Jack of Clubs Ten of Spades: Win Prob - 0.539 Tie Prob - 0.035
+
+Jack of Clubs Jack of Spades: Win Prob - 0.777 Tie Prob - 0.005
+
+Jack of Clubs Queen of Spades: Win Prob - 0.561 Tie Prob - 0.03
+
+Jack of Clubs King of Spades: Win Prob - 0.581 Tie Prob - 0.026
+
+Jack of Clubs Ace of Spades: Win Prob - 0.595 Tie Prob - 0.037
+
+Jack of Clubs Two of Diamonds: Win Prob - 0.403 Tie Prob - 0.046
+
+Jack of Clubs Three of Diamonds: Win Prob - 0.416 Tie Prob - 0.054
+
+Jack of Clubs Four of Diamonds: Win Prob - 0.479 Tie Prob - 0.039
+
+Jack of Clubs Five of Diamonds: Win Prob - 0.44 Tie Prob - 0.056
+
+Jack of Clubs Six of Diamonds: Win Prob - 0.459 Tie Prob - 0.039
+
+Jack of Clubs Seven of Diamonds: Win Prob - 0.498 Tie Prob - 0.051
+
+Jack of Clubs Eight of Diamonds: Win Prob - 0.503 Tie Prob - 0.043
+
+Jack of Clubs Nine of Diamonds: Win Prob - 0.515 Tie Prob - 0.035
+
+Jack of Clubs Ten of Diamonds: Win Prob - 0.53 Tie Prob - 0.037
+
+Jack of Clubs Jack of Diamonds: Win Prob - 0.774 Tie Prob - 0.005
+
+Jack of Clubs Queen of Diamonds: Win Prob - 0.599 Tie Prob - 0.024
+
+Jack of Clubs King of Diamonds: Win Prob - 0.597 Tie Prob - 0.028
+
+Jack of Clubs Ace of Diamonds: Win Prob - 0.621 Tie Prob - 0.031
+
+Queen of Clubs King of Clubs: Win Prob - 0.583 Tie Prob - 0.024
+
+Queen of Clubs Ace of Clubs: Win Prob - 0.632 Tie Prob - 0.024
+
+Queen of Clubs Two of Spades: Win Prob - 0.45 Tie Prob - 0.05
+
+Queen of Clubs Three of Spades: Win Prob - 0.46 Tie Prob - 0.046
+
+Queen of Clubs Four of Spades: Win Prob - 0.466 Tie Prob - 0.045
+
+Queen of Clubs Five of Spades: Win Prob - 0.478 Tie Prob - 0.043
+
+Queen of Clubs Six of Spades: Win Prob - 0.533 Tie Prob - 0.041
+
+Queen of Clubs Seven of Spades: Win Prob - 0.506 Tie Prob - 0.038
+
+Queen of Clubs Eight of Spades: Win Prob - 0.495 Tie Prob - 0.047
+
+Queen of Clubs Nine of Spades: Win Prob - 0.524 Tie Prob - 0.054
+
+Queen of Clubs Ten of Spades: Win Prob - 0.563 Tie Prob - 0.04
+
+Queen of Clubs Jack of Spades: Win Prob - 0.569 Tie Prob - 0.029
+
+Queen of Clubs Queen of Spades: Win Prob - 0.786 Tie Prob - 0.008
+
+Queen of Clubs King of Spades: Win Prob - 0.58 Tie Prob - 0.029
+
+Queen of Clubs Ace of Spades: Win Prob - 0.646 Tie Prob - 0.039
+
+Queen of Clubs Two of Diamonds: Win Prob - 0.436 Tie Prob - 0.044
+
+Queen of Clubs Three of Diamonds: Win Prob - 0.457 Tie Prob - 0.051
+
+Queen of Clubs Four of Diamonds: Win Prob - 0.462 Tie Prob - 0.042
+
+Queen of Clubs Five of Diamonds: Win Prob - 0.503 Tie Prob - 0.035
+
+Queen of Clubs Six of Diamonds: Win Prob - 0.504 Tie Prob - 0.045
+
+Queen of Clubs Seven of Diamonds: Win Prob - 0.483 Tie Prob - 0.042
+
+Queen of Clubs Eight of Diamonds: Win Prob - 0.516 Tie Prob - 0.039
+
+Queen of Clubs Nine of Diamonds: Win Prob - 0.54 Tie Prob - 0.039
+
+Queen of Clubs Ten of Diamonds: Win Prob - 0.531 Tie Prob - 0.039
+
+Queen of Clubs Jack of Diamonds: Win Prob - 0.579 Tie Prob - 0.028
+
+Queen of Clubs Queen of Diamonds: Win Prob - 0.813 Tie Prob - 0.006
+
+Queen of Clubs King of Diamonds: Win Prob - 0.628 Tie Prob - 0.036
+
+Queen of Clubs Ace of Diamonds: Win Prob - 0.636 Tie Prob - 0.035
+
+King of Clubs Ace of Clubs: Win Prob - 0.624 Tie Prob - 0.035
+
+King of Clubs Two of Spades: Win Prob - 0.476 Tie Prob - 0.042
+
+King of Clubs Three of Spades: Win Prob - 0.476 Tie Prob - 0.039
+
+King of Clubs Four of Spades: Win Prob - 0.526 Tie Prob - 0.039
+
+King of Clubs Five of Spades: Win Prob - 0.501 Tie Prob - 0.042
+
+King of Clubs Six of Spades: Win Prob - 0.506 Tie Prob - 0.048
+
+King of Clubs Seven of Spades: Win Prob - 0.492 Tie Prob - 0.046
+
+King of Clubs Eight of Spades: Win Prob - 0.57 Tie Prob - 0.027
+
+King of Clubs Nine of Spades: Win Prob - 0.579 Tie Prob - 0.038
+
+King of Clubs Ten of Spades: Win Prob - 0.576 Tie Prob - 0.039
+
+King of Clubs Jack of Spades: Win Prob - 0.599 Tie Prob - 0.033
+
+King of Clubs Queen of Spades: Win Prob - 0.606 Tie Prob - 0.024
+
+King of Clubs King of Spades: Win Prob - 0.825 Tie Prob - 0.005
+
+King of Clubs Ace of Spades: Win Prob - 0.634 Tie Prob - 0.035
+
+King of Clubs Two of Diamonds: Win Prob - 0.46 Tie Prob - 0.046
+
+King of Clubs Three of Diamonds: Win Prob - 0.467 Tie Prob - 0.043
+
+King of Clubs Four of Diamonds: Win Prob - 0.486 Tie Prob - 0.05
+
+King of Clubs Five of Diamonds: Win Prob - 0.534 Tie Prob - 0.035
+
+King of Clubs Six of Diamonds: Win Prob - 0.522 Tie Prob - 0.035
+
+King of Clubs Seven of Diamonds: Win Prob - 0.522 Tie Prob - 0.037
+
+King of Clubs Eight of Diamonds: Win Prob - 0.526 Tie Prob - 0.049
+
+King of Clubs Nine of Diamonds: Win Prob - 0.597 Tie Prob - 0.041
+
+King of Clubs Ten of Diamonds: Win Prob - 0.583 Tie Prob - 0.031
+
+King of Clubs Jack of Diamonds: Win Prob - 0.579 Tie Prob - 0.029
+
+King of Clubs Queen of Diamonds: Win Prob - 0.611 Tie Prob - 0.033
+
+King of Clubs King of Diamonds: Win Prob - 0.84 Tie Prob - 0.008
+
+King of Clubs Ace of Diamonds: Win Prob - 0.651 Tie Prob - 0.028
+
+Ace of Clubs Two of Spades: Win Prob - 0.516 Tie Prob - 0.041
+
+Ace of Clubs Three of Spades: Win Prob - 0.534 Tie Prob - 0.044
+
+Ace of Clubs Four of Spades: Win Prob - 0.548 Tie Prob - 0.038
+
+Ace of Clubs Five of Spades: Win Prob - 0.553 Tie Prob - 0.048
+
+Ace of Clubs Six of Spades: Win Prob - 0.564 Tie Prob - 0.041
+
+Ace of Clubs Seven of Spades: Win Prob - 0.559 Tie Prob - 0.041
+
+Ace of Clubs Eight of Spades: Win Prob - 0.541 Tie Prob - 0.041
+
+Ace of Clubs Nine of Spades: Win Prob - 0.572 Tie Prob - 0.04
+
+Ace of Clubs Ten of Spades: Win Prob - 0.621 Tie Prob - 0.028
+
+Ace of Clubs Jack of Spades: Win Prob - 0.642 Tie Prob - 0.026
+
+Ace of Clubs Queen of Spades: Win Prob - 0.608 Tie Prob - 0.031
+
+Ace of Clubs King of Spades: Win Prob - 0.638 Tie Prob - 0.034
+
+Ace of Clubs Ace of Spades: Win Prob - 0.85 Tie Prob - 0.003
+
+Ace of Clubs Two of Diamonds: Win Prob - 0.479 Tie Prob - 0.038
+
+Ace of Clubs Three of Diamonds: Win Prob - 0.509 Tie Prob - 0.052
+
+Ace of Clubs Four of Diamonds: Win Prob - 0.488 Tie Prob - 0.057
+
+Ace of Clubs Five of Diamonds: Win Prob - 0.575 Tie Prob - 0.045
+
+Ace of Clubs Six of Diamonds: Win Prob - 0.53 Tie Prob - 0.048
+
+Ace of Clubs Seven of Diamonds: Win Prob - 0.543 Tie Prob - 0.043
+
+Ace of Clubs Eight of Diamonds: Win Prob - 0.572 Tie Prob - 0.039
+
+Ace of Clubs Nine of Diamonds: Win Prob - 0.555 Tie Prob - 0.037
+
+Ace of Clubs Ten of Diamonds: Win Prob - 0.606 Tie Prob - 0.025
+
+Ace of Clubs Jack of Diamonds: Win Prob - 0.593 Tie Prob - 0.035
+
+Ace of Clubs Queen of Diamonds: Win Prob - 0.598 Tie Prob - 0.036
+
+Ace of Clubs King of Diamonds: Win Prob - 0.666 Tie Prob - 0.029
+
+Ace of Clubs Ace of Diamonds: Win Prob - 0.86 Tie Prob - 0.006
+
+Two of Spades Three of Spades: Win Prob - 0.323 Tie Prob - 0.041
+
+Two of Spades Four of Spades: Win Prob - 0.332 Tie Prob - 0.052
+
+Two of Spades Five of Spades: Win Prob - 0.317 Tie Prob - 0.051
+
+Two of Spades Six of Spades: Win Prob - 0.351 Tie Prob - 0.065
+
+Two of Spades Seven of Spades: Win Prob - 0.353 Tie Prob - 0.048
+
+Two of Spades Eight of Spades: Win Prob - 0.386 Tie Prob - 0.044
+
+Two of Spades Nine of Spades: Win Prob - 0.396 Tie Prob - 0.049
+
+Two of Spades Ten of Spades: Win Prob - 0.448 Tie Prob - 0.039
+
+Two of Spades Jack of Spades: Win Prob - 0.434 Tie Prob - 0.043
+
+Two of Spades Queen of Spades: Win Prob - 0.482 Tie Prob - 0.046
+
+Two of Spades King of Spades: Win Prob - 0.485 Tie Prob - 0.029
+
+Two of Spades Ace of Spades: Win Prob - 0.537 Tie Prob - 0.04
+
+Two of Spades Two of Diamonds: Win Prob - 0.483 Tie Prob - 0.012
+
+Two of Spades Three of Diamonds: Win Prob - 0.271 Tie Prob - 0.061
+
+Two of Spades Four of Diamonds: Win Prob - 0.298 Tie Prob - 0.042
+
+Two of Spades Five of Diamonds: Win Prob - 0.318 Tie Prob - 0.052
+
+Two of Spades Six of Diamonds: Win Prob - 0.306 Tie Prob - 0.054
+
+Two of Spades Seven of Diamonds: Win Prob - 0.303 Tie Prob - 0.05
+
+Two of Spades Eight of Diamonds: Win Prob - 0.368 Tie Prob - 0.053
+
+Two of Spades Nine of Diamonds: Win Prob - 0.361 Tie Prob - 0.055
+
+Two of Spades Ten of Diamonds: Win Prob - 0.39 Tie Prob - 0.051
+
+Two of Spades Jack of Diamonds: Win Prob - 0.409 Tie Prob - 0.045
+
+Two of Spades Queen of Diamonds: Win Prob - 0.425 Tie Prob - 0.035
+
+Two of Spades King of Diamonds: Win Prob - 0.473 Tie Prob - 0.029
+
+Two of Spades Ace of Diamonds: Win Prob - 0.53 Tie Prob - 0.036
+
+Three of Spades Four of Spades: Win Prob - 0.355 Tie Prob - 0.052
+
+Three of Spades Five of Spades: Win Prob - 0.37 Tie Prob - 0.045
+
+Three of Spades Six of Spades: Win Prob - 0.345 Tie Prob - 0.047
+
+Three of Spades Seven of Spades: Win Prob - 0.341 Tie Prob - 0.053
+
+Three of Spades Eight of Spades: Win Prob - 0.365 Tie Prob - 0.05
+
+Three of Spades Nine of Spades: Win Prob - 0.417 Tie Prob - 0.043
+
+Three of Spades Ten of Spades: Win Prob - 0.439 Tie Prob - 0.038
+
+Three of Spades Jack of Spades: Win Prob - 0.461 Tie Prob - 0.042
+
+Three of Spades Queen of Spades: Win Prob - 0.458 Tie Prob - 0.057
+
+Three of Spades King of Spades: Win Prob - 0.5 Tie Prob - 0.044
+
+Three of Spades Ace of Spades: Win Prob - 0.542 Tie Prob - 0.038
+
+Three of Spades Two of Diamonds: Win Prob - 0.301 Tie Prob - 0.054
+
+Three of Spades Three of Diamonds: Win Prob - 0.546 Tie Prob - 0.015
+
+Three of Spades Four of Diamonds: Win Prob - 0.331 Tie Prob - 0.053
+
+Three of Spades Five of Diamonds: Win Prob - 0.34 Tie Prob - 0.05
+
+Three of Spades Six of Diamonds: Win Prob - 0.313 Tie Prob - 0.055
+
+Three of Spades Seven of Diamonds: Win Prob - 0.333 Tie Prob - 0.045
+
+Three of Spades Eight of Diamonds: Win Prob - 0.351 Tie Prob - 0.055
+
+Three of Spades Nine of Diamonds: Win Prob - 0.394 Tie Prob - 0.041
+
+Three of Spades Ten of Diamonds: Win Prob - 0.422 Tie Prob - 0.046
+
+Three of Spades Jack of Diamonds: Win Prob - 0.424 Tie Prob - 0.044
+
+Three of Spades Queen of Diamonds: Win Prob - 0.448 Tie Prob - 0.046
+
+Three of Spades King of Diamonds: Win Prob - 0.463 Tie Prob - 0.05
+
+Three of Spades Ace of Diamonds: Win Prob - 0.519 Tie Prob - 0.042
+
+Four of Spades Five of Spades: Win Prob - 0.397 Tie Prob - 0.053
+
+Four of Spades Six of Spades: Win Prob - 0.375 Tie Prob - 0.043
+
+Four of Spades Seven of Spades: Win Prob - 0.383 Tie Prob - 0.058
+
+Four of Spades Eight of Spades: Win Prob - 0.428 Tie Prob - 0.045
+
+Four of Spades Nine of Spades: Win Prob - 0.395 Tie Prob - 0.048
+
+Four of Spades Ten of Spades: Win Prob - 0.442 Tie Prob - 0.044
+
+Four of Spades Jack of Spades: Win Prob - 0.475 Tie Prob - 0.027
+
+Four of Spades Queen of Spades: Win Prob - 0.504 Tie Prob - 0.041
+
+Four of Spades King of Spades: Win Prob - 0.543 Tie Prob - 0.037
+
+Four of Spades Ace of Spades: Win Prob - 0.547 Tie Prob - 0.034
+
+Four of Spades Two of Diamonds: Win Prob - 0.289 Tie Prob - 0.054
+
+Four of Spades Three of Diamonds: Win Prob - 0.331 Tie Prob - 0.056
+
+Four of Spades Four of Diamonds: Win Prob - 0.574 Tie Prob - 0.013
+
+Four of Spades Five of Diamonds: Win Prob - 0.345 Tie Prob - 0.046
+
+Four of Spades Six of Diamonds: Win Prob - 0.353 Tie Prob - 0.054
+
+Four of Spades Seven of Diamonds: Win Prob - 0.373 Tie Prob - 0.049
+
+Four of Spades Eight of Diamonds: Win Prob - 0.386 Tie Prob - 0.051
+
+Four of Spades Nine of Diamonds: Win Prob - 0.382 Tie Prob - 0.061
+
+Four of Spades Ten of Diamonds: Win Prob - 0.396 Tie Prob - 0.06
+
+Four of Spades Jack of Diamonds: Win Prob - 0.43 Tie Prob - 0.045
+
+Four of Spades Queen of Diamonds: Win Prob - 0.444 Tie Prob - 0.042
+
+Four of Spades King of Diamonds: Win Prob - 0.502 Tie Prob - 0.033
+
+Four of Spades Ace of Diamonds: Win Prob - 0.524 Tie Prob - 0.042
+
+Five of Spades Six of Spades: Win Prob - 0.411 Tie Prob - 0.064
+
+Five of Spades Seven of Spades: Win Prob - 0.438 Tie Prob - 0.052
+
+Five of Spades Eight of Spades: Win Prob - 0.443 Tie Prob - 0.048
+
+Five of Spades Nine of Spades: Win Prob - 0.483 Tie Prob - 0.037
+
+Five of Spades Ten of Spades: Win Prob - 0.452 Tie Prob - 0.051
+
+Five of Spades Jack of Spades: Win Prob - 0.47 Tie Prob - 0.039
+
+Five of Spades Queen of Spades: Win Prob - 0.487 Tie Prob - 0.047
+
+Five of Spades King of Spades: Win Prob - 0.526 Tie Prob - 0.029
+
+Five of Spades Ace of Spades: Win Prob - 0.564 Tie Prob - 0.04
+
+Five of Spades Two of Diamonds: Win Prob - 0.322 Tie Prob - 0.06
+
+Five of Spades Three of Diamonds: Win Prob - 0.333 Tie Prob - 0.055
+
+Five of Spades Four of Diamonds: Win Prob - 0.385 Tie Prob - 0.058
+
+Five of Spades Five of Diamonds: Win Prob - 0.598 Tie Prob - 0.014
+
+Five of Spades Six of Diamonds: Win Prob - 0.381 Tie Prob - 0.056
+
+Five of Spades Seven of Diamonds: Win Prob - 0.389 Tie Prob - 0.064
+
+Five of Spades Eight of Diamonds: Win Prob - 0.387 Tie Prob - 0.05
+
+Five of Spades Nine of Diamonds: Win Prob - 0.377 Tie Prob - 0.041
+
+Five of Spades Ten of Diamonds: Win Prob - 0.43 Tie Prob - 0.037
+
+Five of Spades Jack of Diamonds: Win Prob - 0.458 Tie Prob - 0.035
+
+Five of Spades Queen of Diamonds: Win Prob - 0.454 Tie Prob - 0.054
+
+Five of Spades King of Diamonds: Win Prob - 0.489 Tie Prob - 0.055
+
+Five of Spades Ace of Diamonds: Win Prob - 0.561 Tie Prob - 0.047
+
+Six of Spades Seven of Spades: Win Prob - 0.442 Tie Prob - 0.047
+
+Six of Spades Eight of Spades: Win Prob - 0.453 Tie Prob - 0.047
+
+Six of Spades Nine of Spades: Win Prob - 0.427 Tie Prob - 0.053
+
+Six of Spades Ten of Spades: Win Prob - 0.469 Tie Prob - 0.046
+
+Six of Spades Jack of Spades: Win Prob - 0.477 Tie Prob - 0.036
+
+Six of Spades Queen of Spades: Win Prob - 0.539 Tie Prob - 0.036
+
+Six of Spades King of Spades: Win Prob - 0.546 Tie Prob - 0.04
+
+Six of Spades Ace of Spades: Win Prob - 0.569 Tie Prob - 0.042
+
+Six of Spades Two of Diamonds: Win Prob - 0.258 Tie Prob - 0.061
+
+Six of Spades Three of Diamonds: Win Prob - 0.311 Tie Prob - 0.062
+
+Six of Spades Four of Diamonds: Win Prob - 0.346 Tie Prob - 0.051
+
+Six of Spades Five of Diamonds: Win Prob - 0.379 Tie Prob - 0.068
+
+Six of Spades Six of Diamonds: Win Prob - 0.642 Tie Prob - 0.014
+
+Six of Spades Seven of Diamonds: Win Prob - 0.403 Tie Prob - 0.057
+
+Six of Spades Eight of Diamonds: Win Prob - 0.428 Tie Prob - 0.06
+
+Six of Spades Nine of Diamonds: Win Prob - 0.415 Tie Prob - 0.048
+
+Six of Spades Ten of Diamonds: Win Prob - 0.453 Tie Prob - 0.048
+
+Six of Spades Jack of Diamonds: Win Prob - 0.468 Tie Prob - 0.048
+
+Six of Spades Queen of Diamonds: Win Prob - 0.506 Tie Prob - 0.044
+
+Six of Spades King of Diamonds: Win Prob - 0.515 Tie Prob - 0.039
+
+Six of Spades Ace of Diamonds: Win Prob - 0.558 Tie Prob - 0.045
+
+Seven of Spades Eight of Spades: Win Prob - 0.482 Tie Prob - 0.034
+
+Seven of Spades Nine of Spades: Win Prob - 0.488 Tie Prob - 0.048
+
+Seven of Spades Ten of Spades: Win Prob - 0.503 Tie Prob - 0.038
+
+Seven of Spades Jack of Spades: Win Prob - 0.536 Tie Prob - 0.036
+
+Seven of Spades Queen of Spades: Win Prob - 0.556 Tie Prob - 0.039
+
+Seven of Spades King of Spades: Win Prob - 0.549 Tie Prob - 0.038
+
+Seven of Spades Ace of Spades: Win Prob - 0.566 Tie Prob - 0.037
+
+Seven of Spades Two of Diamonds: Win Prob - 0.308 Tie Prob - 0.051
+
+Seven of Spades Three of Diamonds: Win Prob - 0.327 Tie Prob - 0.049
+
+Seven of Spades Four of Diamonds: Win Prob - 0.38 Tie Prob - 0.053
+
+Seven of Spades Five of Diamonds: Win Prob - 0.387 Tie Prob - 0.065
+
+Seven of Spades Six of Diamonds: Win Prob - 0.404 Tie Prob - 0.052
+
+Seven of Spades Seven of Diamonds: Win Prob - 0.675 Tie Prob - 0.01
+
+Seven of Spades Eight of Diamonds: Win Prob - 0.429 Tie Prob - 0.038
+
+Seven of Spades Nine of Diamonds: Win Prob - 0.457 Tie Prob - 0.037
+
+Seven of Spades Ten of Diamonds: Win Prob - 0.467 Tie Prob - 0.041
+
+Seven of Spades Jack of Diamonds: Win Prob - 0.478 Tie Prob - 0.048
+
+Seven of Spades Queen of Diamonds: Win Prob - 0.504 Tie Prob - 0.041
+
+Seven of Spades King of Diamonds: Win Prob - 0.549 Tie Prob - 0.05
+
+Seven of Spades Ace of Diamonds: Win Prob - 0.573 Tie Prob - 0.039
+
+Eight of Spades Nine of Spades: Win Prob - 0.508 Tie Prob - 0.034
+
+Eight of Spades Ten of Spades: Win Prob - 0.527 Tie Prob - 0.033
+
+Eight of Spades Jack of Spades: Win Prob - 0.542 Tie Prob - 0.04
+
+Eight of Spades Queen of Spades: Win Prob - 0.572 Tie Prob - 0.04
+
+Eight of Spades King of Spades: Win Prob - 0.551 Tie Prob - 0.031
+
+Eight of Spades Ace of Spades: Win Prob - 0.583 Tie Prob - 0.041
+
+Eight of Spades Two of Diamonds: Win Prob - 0.344 Tie Prob - 0.053
+
+Eight of Spades Three of Diamonds: Win Prob - 0.357 Tie Prob - 0.041
+
+Eight of Spades Four of Diamonds: Win Prob - 0.364 Tie Prob - 0.049
+
+Eight of Spades Five of Diamonds: Win Prob - 0.402 Tie Prob - 0.048
+
+Eight of Spades Six of Diamonds: Win Prob - 0.435 Tie Prob - 0.048
+
+Eight of Spades Seven of Diamonds: Win Prob - 0.426 Tie Prob - 0.054
+
+Eight of Spades Eight of Diamonds: Win Prob - 0.679 Tie Prob - 0.01
+
+Eight of Spades Nine of Diamonds: Win Prob - 0.475 Tie Prob - 0.042
+
+Eight of Spades Ten of Diamonds: Win Prob - 0.493 Tie Prob - 0.043
+
+Eight of Spades Jack of Diamonds: Win Prob - 0.485 Tie Prob - 0.043
+
+Eight of Spades Queen of Diamonds: Win Prob - 0.543 Tie Prob - 0.039
+
+Eight of Spades King of Diamonds: Win Prob - 0.54 Tie Prob - 0.042
+
+Eight of Spades Ace of Diamonds: Win Prob - 0.597 Tie Prob - 0.035
+
+Nine of Spades Ten of Spades: Win Prob - 0.538 Tie Prob - 0.047
+
+Nine of Spades Jack of Spades: Win Prob - 0.532 Tie Prob - 0.039
+
+Nine of Spades Queen of Spades: Win Prob - 0.572 Tie Prob - 0.035
+
+Nine of Spades King of Spades: Win Prob - 0.566 Tie Prob - 0.028
+
+Nine of Spades Ace of Spades: Win Prob - 0.61 Tie Prob - 0.028
+
+Nine of Spades Two of Diamonds: Win Prob - 0.348 Tie Prob - 0.054
+
+Nine of Spades Three of Diamonds: Win Prob - 0.365 Tie Prob - 0.043
+
+Nine of Spades Four of Diamonds: Win Prob - 0.391 Tie Prob - 0.055
+
+Nine of Spades Five of Diamonds: Win Prob - 0.401 Tie Prob - 0.046
+
+Nine of Spades Six of Diamonds: Win Prob - 0.441 Tie Prob - 0.048
+
+Nine of Spades Seven of Diamonds: Win Prob - 0.44 Tie Prob - 0.044
+
+Nine of Spades Eight of Diamonds: Win Prob - 0.467 Tie Prob - 0.047
+
+Nine of Spades Nine of Diamonds: Win Prob - 0.723 Tie Prob - 0.012
+
+Nine of Spades Ten of Diamonds: Win Prob - 0.523 Tie Prob - 0.041
+
+Nine of Spades Jack of Diamonds: Win Prob - 0.499 Tie Prob - 0.041
+
+Nine of Spades Queen of Diamonds: Win Prob - 0.533 Tie Prob - 0.042
+
+Nine of Spades King of Diamonds: Win Prob - 0.546 Tie Prob - 0.031
+
+Nine of Spades Ace of Diamonds: Win Prob - 0.602 Tie Prob - 0.027
+
+Ten of Spades Jack of Spades: Win Prob - 0.569 Tie Prob - 0.04
+
+Ten of Spades Queen of Spades: Win Prob - 0.582 Tie Prob - 0.042
+
+Ten of Spades King of Spades: Win Prob - 0.589 Tie Prob - 0.026
+
+Ten of Spades Ace of Spades: Win Prob - 0.627 Tie Prob - 0.031
+
+Ten of Spades Two of Diamonds: Win Prob - 0.399 Tie Prob - 0.037
+
+Ten of Spades Three of Diamonds: Win Prob - 0.385 Tie Prob - 0.056
+
+Ten of Spades Four of Diamonds: Win Prob - 0.42 Tie Prob - 0.048
+
+Ten of Spades Five of Diamonds: Win Prob - 0.42 Tie Prob - 0.051
+
+Ten of Spades Six of Diamonds: Win Prob - 0.426 Tie Prob - 0.055
+
+Ten of Spades Seven of Diamonds: Win Prob - 0.467 Tie Prob - 0.059
+
+Ten of Spades Eight of Diamonds: Win Prob - 0.479 Tie Prob - 0.042
+
+Ten of Spades Nine of Diamonds: Win Prob - 0.529 Tie Prob - 0.042
+
+Ten of Spades Ten of Diamonds: Win Prob - 0.748 Tie Prob - 0.009
+
+Ten of Spades Jack of Diamonds: Win Prob - 0.529 Tie Prob - 0.028
+
+Ten of Spades Queen of Diamonds: Win Prob - 0.574 Tie Prob - 0.033
+
+Ten of Spades King of Diamonds: Win Prob - 0.601 Tie Prob - 0.038
+
+Ten of Spades Ace of Diamonds: Win Prob - 0.611 Tie Prob - 0.033
+
+Jack of Spades Queen of Spades: Win Prob - 0.583 Tie Prob - 0.031
+
+Jack of Spades King of Spades: Win Prob - 0.619 Tie Prob - 0.029
+
+Jack of Spades Ace of Spades: Win Prob - 0.654 Tie Prob - 0.031
+
+Jack of Spades Two of Diamonds: Win Prob - 0.418 Tie Prob - 0.046
+
+Jack of Spades Three of Diamonds: Win Prob - 0.41 Tie Prob - 0.051
+
+Jack of Spades Four of Diamonds: Win Prob - 0.425 Tie Prob - 0.047
+
+Jack of Spades Five of Diamonds: Win Prob - 0.478 Tie Prob - 0.031
+
+Jack of Spades Six of Diamonds: Win Prob - 0.456 Tie Prob - 0.048
+
+Jack of Spades Seven of Diamonds: Win Prob - 0.476 Tie Prob - 0.033
+
+Jack of Spades Eight of Diamonds: Win Prob - 0.497 Tie Prob - 0.046
+
+Jack of Spades Nine of Diamonds: Win Prob - 0.507 Tie Prob - 0.032
+
+Jack of Spades Ten of Diamonds: Win Prob - 0.543 Tie Prob - 0.03
+
+Jack of Spades Jack of Diamonds: Win Prob - 0.77 Tie Prob - 0.007
+
+Jack of Spades Queen of Diamonds: Win Prob - 0.547 Tie Prob - 0.037
+
+Jack of Spades King of Diamonds: Win Prob - 0.587 Tie Prob - 0.029
+
+Jack of Spades Ace of Diamonds: Win Prob - 0.641 Tie Prob - 0.026
+
+Queen of Spades King of Spades: Win Prob - 0.609 Tie Prob - 0.036
+
+Queen of Spades Ace of Spades: Win Prob - 0.652 Tie Prob - 0.027
+
+Queen of Spades Two of Diamonds: Win Prob - 0.451 Tie Prob - 0.042
+
+Queen of Spades Three of Diamonds: Win Prob - 0.436 Tie Prob - 0.034
+
+Queen of Spades Four of Diamonds: Win Prob - 0.452 Tie Prob - 0.063
+
+Queen of Spades Five of Diamonds: Win Prob - 0.46 Tie Prob - 0.036
+
+Queen of Spades Six of Diamonds: Win Prob - 0.455 Tie Prob - 0.057
+
+Queen of Spades Seven of Diamonds: Win Prob - 0.494 Tie Prob - 0.039
+
+Queen of Spades Eight of Diamonds: Win Prob - 0.502 Tie Prob - 0.034
+
+Queen of Spades Nine of Diamonds: Win Prob - 0.547 Tie Prob - 0.035
+
+Queen of Spades Ten of Diamonds: Win Prob - 0.588 Tie Prob - 0.021
+
+Queen of Spades Jack of Diamonds: Win Prob - 0.538 Tie Prob - 0.025
+
+Queen of Spades Queen of Diamonds: Win Prob - 0.811 Tie Prob - 0.006
+
+Queen of Spades King of Diamonds: Win Prob - 0.598 Tie Prob - 0.032
+
+Queen of Spades Ace of Diamonds: Win Prob - 0.642 Tie Prob - 0.02
+
+King of Spades Ace of Spades: Win Prob - 0.656 Tie Prob - 0.021
+
+King of Spades Two of Diamonds: Win Prob - 0.433 Tie Prob - 0.045
+
+King of Spades Three of Diamonds: Win Prob - 0.48 Tie Prob - 0.044
+
+King of Spades Four of Diamonds: Win Prob - 0.48 Tie Prob - 0.035
+
+King of Spades Five of Diamonds: Win Prob - 0.507 Tie Prob - 0.047
+
+King of Spades Six of Diamonds: Win Prob - 0.51 Tie Prob - 0.044
+
+King of Spades Seven of Diamonds: Win Prob - 0.547 Tie Prob - 0.041
+
+King of Spades Eight of Diamonds: Win Prob - 0.529 Tie Prob - 0.041
+
+King of Spades Nine of Diamonds: Win Prob - 0.601 Tie Prob - 0.035
+
+King of Spades Ten of Diamonds: Win Prob - 0.564 Tie Prob - 0.033
+
+King of Spades Jack of Diamonds: Win Prob - 0.584 Tie Prob - 0.037
+
+King of Spades Queen of Diamonds: Win Prob - 0.593 Tie Prob - 0.027
+
+King of Spades King of Diamonds: Win Prob - 0.828 Tie Prob - 0.002
+
+King of Spades Ace of Diamonds: Win Prob - 0.631 Tie Prob - 0.03
+
+Ace of Spades Two of Diamonds: Win Prob - 0.505 Tie Prob - 0.051
+
+Ace of Spades Three of Diamonds: Win Prob - 0.55 Tie Prob - 0.033
+
+Ace of Spades Four of Diamonds: Win Prob - 0.521 Tie Prob - 0.053
+
+Ace of Spades Five of Diamonds: Win Prob - 0.514 Tie Prob - 0.047
+
+Ace of Spades Six of Diamonds: Win Prob - 0.574 Tie Prob - 0.045
+
+Ace of Spades Seven of Diamonds: Win Prob - 0.576 Tie Prob - 0.044
+
+Ace of Spades Eight of Diamonds: Win Prob - 0.559 Tie Prob - 0.052
+
+Ace of Spades Nine of Diamonds: Win Prob - 0.579 Tie Prob - 0.04
+
+Ace of Spades Ten of Diamonds: Win Prob - 0.582 Tie Prob - 0.034
+
+Ace of Spades Jack of Diamonds: Win Prob - 0.608 Tie Prob - 0.031
+
+Ace of Spades Queen of Diamonds: Win Prob - 0.612 Tie Prob - 0.03
+
+Ace of Spades King of Diamonds: Win Prob - 0.642 Tie Prob - 0.031
+
+Ace of Spades Ace of Diamonds: Win Prob - 0.836 Tie Prob - 0.009
+
+Two of Diamonds Three of Diamonds: Win Prob - 0.317 Tie Prob - 0.045
+
+Two of Diamonds Four of Diamonds: Win Prob - 0.338 Tie Prob - 0.051
+
+Two of Diamonds Five of Diamonds: Win Prob - 0.351 Tie Prob - 0.057
+
+Two of Diamonds Six of Diamonds: Win Prob - 0.321 Tie Prob - 0.06
+
+Two of Diamonds Seven of Diamonds: Win Prob - 0.361 Tie Prob - 0.046
+
+Two of Diamonds Eight of Diamonds: Win Prob - 0.377 Tie Prob - 0.048
+
+Two of Diamonds Nine of Diamonds: Win Prob - 0.406 Tie Prob - 0.037
+
+Two of Diamonds Ten of Diamonds: Win Prob - 0.406 Tie Prob - 0.045
+
+Two of Diamonds Jack of Diamonds: Win Prob - 0.432 Tie Prob - 0.046
+
+Two of Diamonds Queen of Diamonds: Win Prob - 0.511 Tie Prob - 0.035
+
+Two of Diamonds King of Diamonds: Win Prob - 0.498 Tie Prob - 0.034
+
+Two of Diamonds Ace of Diamonds: Win Prob - 0.548 Tie Prob - 0.045
+
+Three of Diamonds Four of Diamonds: Win Prob - 0.37 Tie Prob - 0.051
+
+Three of Diamonds Five of Diamonds: Win Prob - 0.365 Tie Prob - 0.065
+
+Three of Diamonds Six of Diamonds: Win Prob - 0.354 Tie Prob - 0.036
+
+Three of Diamonds Seven of Diamonds: Win Prob - 0.383 Tie Prob - 0.041
+
+Three of Diamonds Eight of Diamonds: Win Prob - 0.385 Tie Prob - 0.036
+
+Three of Diamonds Nine of Diamonds: Win Prob - 0.399 Tie Prob - 0.038
+
+Three of Diamonds Ten of Diamonds: Win Prob - 0.438 Tie Prob - 0.051
+
+Three of Diamonds Jack of Diamonds: Win Prob - 0.458 Tie Prob - 0.034
+
+Three of Diamonds Queen of Diamonds: Win Prob - 0.466 Tie Prob - 0.042
+
+Three of Diamonds King of Diamonds: Win Prob - 0.486 Tie Prob - 0.05
+
+Three of Diamonds Ace of Diamonds: Win Prob - 0.554 Tie Prob - 0.05
+
+Four of Diamonds Five of Diamonds: Win Prob - 0.366 Tie Prob - 0.049
+
+Four of Diamonds Six of Diamonds: Win Prob - 0.383 Tie Prob - 0.061
+
+Four of Diamonds Seven of Diamonds: Win Prob - 0.397 Tie Prob - 0.04
+
+Four of Diamonds Eight of Diamonds: Win Prob - 0.408 Tie Prob - 0.041
+
+Four of Diamonds Nine of Diamonds: Win Prob - 0.434 Tie Prob - 0.054
+
+Four of Diamonds Ten of Diamonds: Win Prob - 0.47 Tie Prob - 0.04
+
+Four of Diamonds Jack of Diamonds: Win Prob - 0.483 Tie Prob - 0.047
+
+Four of Diamonds Queen of Diamonds: Win Prob - 0.503 Tie Prob - 0.046
+
+Four of Diamonds King of Diamonds: Win Prob - 0.499 Tie Prob - 0.048
+
+Four of Diamonds Ace of Diamonds: Win Prob - 0.562 Tie Prob - 0.041
+
+Five of Diamonds Six of Diamonds: Win Prob - 0.42 Tie Prob - 0.045
+
+Five of Diamonds Seven of Diamonds: Win Prob - 0.425 Tie Prob - 0.046
+
+Five of Diamonds Eight of Diamonds: Win Prob - 0.412 Tie Prob - 0.044
+
+Five of Diamonds Nine of Diamonds: Win Prob - 0.445 Tie Prob - 0.054
+
+Five of Diamonds Ten of Diamonds: Win Prob - 0.451 Tie Prob - 0.044
+
+Five of Diamonds Jack of Diamonds: Win Prob - 0.487 Tie Prob - 0.041
+
+Five of Diamonds Queen of Diamonds: Win Prob - 0.534 Tie Prob - 0.032
+
+Five of Diamonds King of Diamonds: Win Prob - 0.549 Tie Prob - 0.037
+
+Five of Diamonds Ace of Diamonds: Win Prob - 0.574 Tie Prob - 0.041
+
+Six of Diamonds Seven of Diamonds: Win Prob - 0.423 Tie Prob - 0.054
+
+Six of Diamonds Eight of Diamonds: Win Prob - 0.468 Tie Prob - 0.039
+
+Six of Diamonds Nine of Diamonds: Win Prob - 0.465 Tie Prob - 0.047
+
+Six of Diamonds Ten of Diamonds: Win Prob - 0.461 Tie Prob - 0.044
+
+Six of Diamonds Jack of Diamonds: Win Prob - 0.483 Tie Prob - 0.036
+
+Six of Diamonds Queen of Diamonds: Win Prob - 0.521 Tie Prob - 0.05
+
+Six of Diamonds King of Diamonds: Win Prob - 0.506 Tie Prob - 0.045
+
+Six of Diamonds Ace of Diamonds: Win Prob - 0.561 Tie Prob - 0.043
+
+Seven of Diamonds Eight of Diamonds: Win Prob - 0.476 Tie Prob - 0.043
+
+Seven of Diamonds Nine of Diamonds: Win Prob - 0.479 Tie Prob - 0.042
+
+Seven of Diamonds Ten of Diamonds: Win Prob - 0.504 Tie Prob - 0.051
+
+Seven of Diamonds Jack of Diamonds: Win Prob - 0.519 Tie Prob - 0.034
+
+Seven of Diamonds Queen of Diamonds: Win Prob - 0.528 Tie Prob - 0.05
+
+Seven of Diamonds King of Diamonds: Win Prob - 0.529 Tie Prob - 0.045
+
+Seven of Diamonds Ace of Diamonds: Win Prob - 0.582 Tie Prob - 0.043
+
+Eight of Diamonds Nine of Diamonds: Win Prob - 0.482 Tie Prob - 0.039
+
+Eight of Diamonds Ten of Diamonds: Win Prob - 0.537 Tie Prob - 0.031
+
+Eight of Diamonds Jack of Diamonds: Win Prob - 0.529 Tie Prob - 0.035
+
+Eight of Diamonds Queen of Diamonds: Win Prob - 0.561 Tie Prob - 0.036
+
+Eight of Diamonds King of Diamonds: Win Prob - 0.568 Tie Prob - 0.031
+
+Eight of Diamonds Ace of Diamonds: Win Prob - 0.594 Tie Prob - 0.023
+
+Nine of Diamonds Ten of Diamonds: Win Prob - 0.549 Tie Prob - 0.037
+
+Nine of Diamonds Jack of Diamonds: Win Prob - 0.561 Tie Prob - 0.033
+
+Nine of Diamonds Queen of Diamonds: Win Prob - 0.58 Tie Prob - 0.039
+
+Nine of Diamonds King of Diamonds: Win Prob - 0.557 Tie Prob - 0.045
+
+Nine of Diamonds Ace of Diamonds: Win Prob - 0.605 Tie Prob - 0.041
+
+Ten of Diamonds Jack of Diamonds: Win Prob - 0.546 Tie Prob - 0.04
+
+Ten of Diamonds Queen of Diamonds: Win Prob - 0.591 Tie Prob - 0.035
+
+Ten of Diamonds King of Diamonds: Win Prob - 0.592 Tie Prob - 0.023
+
+Ten of Diamonds Ace of Diamonds: Win Prob - 0.639 Tie Prob - 0.04
+
+Jack of Diamonds Queen of Diamonds: Win Prob - 0.623 Tie Prob - 0.029
+
+Jack of Diamonds King of Diamonds: Win Prob - 0.616 Tie Prob - 0.023
+
+Jack of Diamonds Ace of Diamonds: Win Prob - 0.647 Tie Prob - 0.029
+
+Queen of Diamonds King of Diamonds: Win Prob - 0.649 Tie Prob - 0.023
+
+Queen of Diamonds Ace of Diamonds: Win Prob - 0.639 Tie Prob - 0.033
+
+King of Diamonds Ace of Diamonds: Win Prob - 0.636 Tie Prob - 0.03
+
