@@ -48,9 +48,9 @@ class PAIV1:
         if not self.handRankArray[max(0, len(board) - 2)]:
             self._initializeHandRankArray(playerNum, playersFolded, board, myHand)
 
-        # Doing initial probability Calculation for each hand
+        # Doing initial probability Calculation for each hand needs hand rank array to account for folds
         if not probHolder:
-            probHolder = self._initialProbCalc(probHolderDeck, len(probHolderDeck), playerNum, board)
+            probHolder = self._calcProbOfAllHands(probHolderDeck, len(probHolderDeck), playerNum, board)
         #TODO BUGFIXING
 
 
@@ -59,20 +59,7 @@ class PAIV1:
         if not betBucket:
             betBucket = self._betBucketPopulator(playerNum, playersFolded, probHolder, myHand, board, deck,
                                                  deckLen, sortedCallArray[0], currPool)
-        # TODO BUGFIXING
-        #l = 0
-        #for i in betBucket:
-        #    for j in range(playerNum):
-        #        print("-----------------------------------------------------------------")
-        #        print("Players: " + str(playerNum - j))
-        #        print("Amount of hands who can bet this much exact: " + str(i[j][0]))
-        #        print("Amount of hands who can bet at least this much: " + str(i[j][1]))
-        #        print("Average win percent of us against hands that can bet this much exact: " + str(i[j][2]))
-        #        print("Average win percent of us against hands that can bet at least this much: " + str(i[j][3]))
-        #        print("Average Tie percent of us against hands that can bet this much exact: " + str(i[j][4]))
-        #        print("Average Tie percent of us against hands that can bet at least this much: " + str(i[j][5]))
-        #        print("BET: " + str(l))
-        #    l = l + 1
+        self.debugBetbucket(betBucket, playerNum)
 
         # Returning the bet that gives the maximal expectation of money earned
         return self._maxBetCalc(betBucket, sortedCallArray, playerNum, playersFolded, currPool, deckLen, myHand, board)
@@ -161,10 +148,9 @@ class PAIV1:
             # calculating prob + expectation of everyone folding
 
             nullProb = 0
-            #TODO TAKE A LOOK AT THIS
-            for j in range(currPlayerNum):
-
-                # Always goes all in when has great hand fix?
+            # We do not calculate for j=currPlayerNum as that is the case where everyone folds
+            # This is taken into account by the calculation of nullProb
+            for j in range(currPlayerNum - 1):
                 min = 1 - self.rank / (self.rank + 1)
                 if betBucket[i][j][1] == 0:
                     reductionConstant = pow(min, currPlayerNum - j)
@@ -172,7 +158,8 @@ class PAIV1:
                     probOfWorseHand = 1 - self.rank / betBucket[i][j][1]
                     reductionConstant = pow(max(min, probOfWorseHand * balancer), currPlayerNum - j)
 
-                # Calculating how much money you could win with this bet assuming those who already bet are more likely call
+                # Calculating how much money you could win with this bet assuming those who already bet are more likely
+                # to call
                 toWin = toWin + i - sortedCallArray[j - 1]
                 lossPercent = 1 - reductionConstant * (betBucket[i][j][3] + betBucket[i][j][5])
                 # the current expectation with N players
@@ -231,7 +218,6 @@ class PAIV1:
             temp = {}
             var = max(playerNum - playersFolded - j - 2, 0)
             while iterator:
-
                 temp = probHolder[iterator[0][0]][iterator[0][1] - 1 - iterator[0][0]]
                 lossPercent = 1 - (temp[winString] + temp[tieString])
                 denominator = temp[winString] * var + temp[tieString] * var / (var + 2) - lossPercent
@@ -247,6 +233,10 @@ class PAIV1:
                         betBucket[self.currMoney][j][0] = betBucket[self.currMoney][j][0] + 1
                     else:
                         betBucket[maxBet][j][0] = betBucket[maxBet][j][0] + 1
+                print(toCard(iterator[0][0]).toString())
+                print(toCard(iterator[0][1] - 1 - iterator[0][0]).toString())
+                print(denominator)
+                print(maxBet)
                 iterator = lexicographicOrder(deck, 2, deckLen, iterator)
 
         # Setting up indexes 1, 3, 5
@@ -269,7 +259,7 @@ class PAIV1:
 
     # Returns an array indexed as probHolder[j][k] where
     # it represents the probability of a player having deck[j], deck[k] and winning
-    def _initialProbCalc(self, deck, deckLen, playerNum, board):
+    def _calcProbOfAllHands(self, deck, deckLen, playerNum, board):
         iterator = []
         iterator = lexicographicOrder(deck, 2, deckLen, [])
         probHolder = []
@@ -312,6 +302,21 @@ class PAIV1:
                     + ' Tie Prob - ' + str(probHolder[indexOne][indexTwo]['Tie Prob 0']) + '\n' + '\n')
             iterator = lexicographicOrder(deck, 2, deckLen, iterator)
         f.close()
+
+    # outputs betBucket info
+    def debugBetbucket(self, betBucket, playerNum):
+        l = 0
+        for i in betBucket:
+            for j in range(playerNum - 1):
+                print("-----------------------------------------------------------------")
+                print("Players: " + str(playerNum - j))
+                print("Amount of hands who can bet at least this much: " + str(i[j][1]))
+                print("Average win percent of us against hands that can bet this much exact: " + str(i[j][2]))
+                print("Average win percent of us against hands that can bet at least this much: " + str(i[j][3]))
+                print("Average Tie percent of us against hands that can bet this much exact: " + str(i[j][4]))
+                print("Average Tie percent of us against hands that can bet at least this much: " + str(i[j][5]))
+                print("BET: " + str(l))
+            l = l + 1
 
 
 # Returns the next subset that follows in reverse lexicographic order
